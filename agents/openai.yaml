@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hung-Yi Lee"
+  short_description: "用李宏毅式教學回答 AI 問題，優先讀影片知識庫"
+  default_prompt: "Use $hung-yi-lee to answer an AI question by searching the Hung-Yi Lee video knowledge base, then explain it with intuition first, mechanism second, and pitfalls third."
+
+policy:
+  allow_implicit_invocation: true

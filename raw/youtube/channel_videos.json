@@ -1,0 +1,4878 @@
+{
+  "generated_at": "2026-04-08T08:43:38+00:00",
+  "channel_title": "Hung-yi Lee - Videos",
+  "channel_url": "https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/videos",
+  "video_count": 478,
+  "videos": [
+    {
+      "playlist_position": 1,
+      "video_id": "Ll-wk8x3G_g",
+      "title": "如何讓 Transformer 知道輸入 Token 的順序？Absolute、Relative、RoPE、到沒有 Positional Embedding",
+      "url": "https://www.youtube.com/watch?v=Ll-wk8x3G_g",
+      "series": "Standalone Talks",
+      "topics": [
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 2,
+      "video_id": "fDQaadKysSA",
+      "title": "加快語言模型生成速度 (2/2)：KV Cache",
+      "url": "https://www.youtube.com/watch?v=fDQaadKysSA",
+      "series": "加快語言模型生成速度 (2/2)",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 3,
+      "video_id": "vXb2QYOUzl4",
+      "title": "加快語言模型生成速度 (1/2)：Flash Attention",
+      "url": "https://www.youtube.com/watch?v=vXb2QYOUzl4",
+      "series": "加快語言模型生成速度 (1/2)",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 4,
+      "video_id": "VqB8zMujdjM",
+      "title": "AI Agent (3/3): AI Agent 對於工作帶來的衝擊 - 以學術研究為例",
+      "url": "https://www.youtube.com/watch?v=VqB8zMujdjM",
+      "series": "AI Agent (3/3)",
+      "topics": [
+        "agents-and-context"
+      ]
+    },
+    {
+      "playlist_position": 5,
+      "video_id": "mmPmNezjCi0",
+      "title": "AI Agent (2/3): AI Agent 之間可以有什麼樣的互動",
+      "url": "https://www.youtube.com/watch?v=mmPmNezjCi0",
+      "series": "AI Agent (2/3)",
+      "topics": [
+        "agents-and-context"
+      ]
+    },
+    {
+      "playlist_position": 6,
+      "video_id": "urwDLyNa9FU",
+      "title": "AI Agent (1/3)：核心技術 Context Engineering 基本概念解說",
+      "url": "https://www.youtube.com/watch?v=urwDLyNa9FU",
+      "series": "AI Agent (1/3)",
+      "topics": [
+        "agents-and-context"
+      ]
+    },
+    {
+      "playlist_position": 7,
+      "video_id": "2rcJdFuNbZQ",
+      "title": "解剖小龍蝦 — 以 OpenClaw 為例介紹 AI Agent 的運作原理",
+      "url": "https://www.youtube.com/watch?v=2rcJdFuNbZQ",
+      "series": "Standalone Talks",
+      "topics": [
+        "agents-and-context",
+        "interpretability"
+      ]
+    },
+    {
+      "playlist_position": 8,
+      "video_id": "CbIPjrOj2Tc",
+      "title": "【生成式人工智慧與機器學習導論2025】第 10 講：語音語言模型發展史 (本課程前段內容為歷史回顧，2025 年的技術從 1:42:00 開始)",
+      "url": "https://www.youtube.com/watch?v=CbIPjrOj2Tc",
+      "series": "生成式人工智慧與機器學習導論2025",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers",
+        "speech-and-audio",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 9,
+      "video_id": "ccqCDD9LqCA",
+      "title": "【生成式人工智慧與機器學習導論2025】第 9 講：影像和聲音上的生成策略 — Diffusion/Flow-matching 系列和接龍 (Autoregressive) 這兩條世界線的交會",
+      "url": "https://www.youtube.com/watch?v=ccqCDD9LqCA",
+      "series": "生成式人工智慧與機器學習導論2025",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 10,
+      "video_id": "EnWz5XuOnIQ",
+      "title": "【生成式人工智慧與機器學習導論2025】第 8 講：通用模型的終身學習 (Fine-tuning, Model Editing, Model Merging, Test-Time Training)",
+      "url": "https://www.youtube.com/watch?v=EnWz5XuOnIQ",
+      "series": "生成式人工智慧與機器學習導論2025",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation",
+        "model-editing-and-merging"
+      ]
+    },
+    {
+      "playlist_position": 11,
+      "video_id": "YJoegm7kiUM",
+      "title": "【生成式人工智慧與機器學習導論2025】第 7 講：大型語言模型的學習歷程",
+      "url": "https://www.youtube.com/watch?v=YJoegm7kiUM",
+      "series": "生成式人工智慧與機器學習導論2025",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 12,
+      "video_id": "mPWvAN4hzzY",
+      "title": "【生成式人工智慧與機器學習導論2025】第 6 講：一堂課搞懂訓練類神經網路的各種訣竅",
+      "url": "https://www.youtube.com/watch?v=mPWvAN4hzzY",
+      "series": "生成式人工智慧與機器學習導論2025",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 13,
+      "video_id": "Taj1eHmZyWw",
+      "title": "【生成式人工智慧與機器學習導論2025】第 5 講：一堂課搞懂機器學習與深度學習的基本原理 (案例：老師什麼時候要下課)",
+      "url": "https://www.youtube.com/watch?v=Taj1eHmZyWw",
+      "series": "生成式人工智慧與機器學習導論2025",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 14,
+      "video_id": "dWQVY_h0YXU",
+      "title": "【生成式人工智慧與機器學習導論2025】第 4 講：評估生成式人工智慧能力時可能遇到的各種坑",
+      "url": "https://www.youtube.com/watch?v=dWQVY_h0YXU",
+      "series": "生成式人工智慧與機器學習導論2025",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation",
+        "evaluation-and-benchmarks"
+      ]
+    },
+    {
+      "playlist_position": 15,
+      "video_id": "8iFvM7WUUs8",
+      "title": "【生成式人工智慧與機器學習導論2025】第3講：解剖大型語言模型",
+      "url": "https://www.youtube.com/watch?v=8iFvM7WUUs8",
+      "series": "生成式人工智慧與機器學習導論2025",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers",
+        "diffusion-and-generation",
+        "interpretability"
+      ]
+    },
+    {
+      "playlist_position": 16,
+      "video_id": "lVdajtNpaGI",
+      "title": "【生成式人工智慧與機器學習導論2025】第 2 講：上下文工程 (Context Engineering) — AI Agent 背後的關鍵技術",
+      "url": "https://www.youtube.com/watch?v=lVdajtNpaGI",
+      "series": "生成式人工智慧與機器學習導論2025",
+      "topics": [
+        "ml-fundamentals",
+        "agents-and-context",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 17,
+      "video_id": "TigfpYPJk1s",
+      "title": "【生成式人工智慧與機器學習導論2025】第１講：一堂課搞懂生成式人工智慧的原理",
+      "url": "https://www.youtube.com/watch?v=TigfpYPJk1s",
+      "series": "生成式人工智慧與機器學習導論2025",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 18,
+      "video_id": "VuQUF1VVX40",
+      "title": "【生成式人工智慧與機器學習導論2025】第０講：開場與課程簡介",
+      "url": "https://www.youtube.com/watch?v=VuQUF1VVX40",
+      "series": "生成式人工智慧與機器學習導論2025",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 19,
+      "video_id": "zpRR_A3Thoo",
+      "title": "【舊影片上傳】DNN Backpropagation (2015 年上課錄影)",
+      "url": "https://www.youtube.com/watch?v=zpRR_A3Thoo",
+      "series": "舊影片上傳",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 20,
+      "video_id": "gkAyqoQkOSk",
+      "title": "【生成式AI時代下的機器學習(2025)】第十二講：語言模型如何學會說話 — 概述語音語言模型發展歷程",
+      "url": "https://www.youtube.com/watch?v=gkAyqoQkOSk",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers",
+        "speech-and-audio",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 21,
+      "video_id": "jFUwoCkdqAo",
+      "title": "【生成式AI時代下的機器學習(2025)】第十一講：今天你想為 Foundation Model 裝備哪些 Task Vector？淺談神奇的 Model Merging 技術",
+      "url": "https://www.youtube.com/watch?v=jFUwoCkdqAo",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation",
+        "model-editing-and-merging"
+      ]
+    },
+    {
+      "playlist_position": 22,
+      "video_id": "9HPsz7F0mJg",
+      "title": "【生成式AI時代下的機器學習(2025)】第十講：人工智慧的微創手術 — 淺談 Model Editing",
+      "url": "https://www.youtube.com/watch?v=9HPsz7F0mJg",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation",
+        "model-editing-and-merging"
+      ]
+    },
+    {
+      "playlist_position": 23,
+      "video_id": "s266BzGNKKc",
+      "title": "【生成式AI時代下的機器學習(2025)】第九講：你這麽認這個評分系統幹什麽啊？談談有關大型語言模型評估的幾件事",
+      "url": "https://www.youtube.com/watch?v=s266BzGNKKc",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers",
+        "diffusion-and-generation",
+        "evaluation-and-benchmarks"
+      ]
+    },
+    {
+      "playlist_position": 24,
+      "video_id": "ip3XnTpcxoA",
+      "title": "【生成式AI時代下的機器學習(2025)】第八講：大型語言模型的推理過程不用太長、夠用就好",
+      "url": "https://www.youtube.com/watch?v=ip3XnTpcxoA",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 25,
+      "video_id": "bJFtcwLSNxI",
+      "title": "【生成式AI時代下的機器學習(2025)】第七講：DeepSeek-R1 這類大型語言模型是如何進行「深度思考」（Reasoning）的？",
+      "url": "https://www.youtube.com/watch?v=bJFtcwLSNxI",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 26,
+      "video_id": "Z6b5-77EfGk",
+      "title": "【生成式AI時代下的機器學習(2025)】第六講：生成式人工智慧的後訓練(Post-Training)與遺忘問題",
+      "url": "https://www.youtube.com/watch?v=Z6b5-77EfGk",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 27,
+      "video_id": "mpuRca2UZtI",
+      "title": "【生成式AI時代下的機器學習(2025)】助教課：利用多張GPU訓練大型語言模型—從零開始介紹DeepSpeed、Liger Kernel、Flash Attention及Quantization",
+      "url": "https://www.youtube.com/watch?v=mpuRca2UZtI",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 28,
+      "video_id": "Ozos6M1JtIE",
+      "title": "【生成式AI時代下的機器學習(2025)】第五講：大型語言模型訓練方法「預訓練–對齊」(Pretrain-Alignment) 的強大與極限",
+      "url": "https://www.youtube.com/watch?v=Ozos6M1JtIE",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 29,
+      "video_id": "gjsdVi90yQo",
+      "title": "【生成式AI時代下的機器學習(2025)】第四講：Transformer 的時代要結束了嗎？介紹 Transformer 的競爭者們",
+      "url": "https://www.youtube.com/watch?v=gjsdVi90yQo",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 30,
+      "video_id": "Xnil63UDW2o",
+      "title": "【生成式AI時代下的機器學習(2025)】第三講：AI 的腦科學 — 語言模型內部運作機制剖析 (解析單一神經元到整群神經元的運作機制、如何讓語言模型說出自己的內心世界)",
+      "url": "https://www.youtube.com/watch?v=Xnil63UDW2o",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers",
+        "diffusion-and-generation",
+        "interpretability"
+      ]
+    },
+    {
+      "playlist_position": 31,
+      "video_id": "M2Yg1kwPpts",
+      "title": "【生成式AI時代下的機器學習(2025)】第二講：一堂課搞懂 AI Agent 的原理 (AI如何透過經驗調整行為、使用工具和做計劃)",
+      "url": "https://www.youtube.com/watch?v=M2Yg1kwPpts",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "agents-and-context",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 32,
+      "video_id": "QLiKmca4kzI",
+      "title": "【生成式AI時代下的機器學習(2025)】第一講：一堂課搞懂生成式人工智慧的技術突破與未來發展",
+      "url": "https://www.youtube.com/watch?v=QLiKmca4kzI",
+      "series": "生成式AI時代下的機器學習(2025)",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 33,
+      "video_id": "zxFTrb_xGD0",
+      "title": "Future Directions in Neural Speech Communication Codecs - Minje Kim (UIUC)",
+      "url": "https://www.youtube.com/watch?v=zxFTrb_xGD0",
+      "series": "Future Directions in Neural Speech Communication Codecs",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 34,
+      "video_id": "fIoCxwVobEo",
+      "title": "NeuralAudioCodecs: Recent Progress and a Case Study with SemantiCodec -Wenwu Wang (Univ. of Surrey)",
+      "url": "https://www.youtube.com/watch?v=fIoCxwVobEo",
+      "series": "NeuralAudioCodecs",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 35,
+      "video_id": "JidtdZVtpkI",
+      "title": "VoiceCraft: Zero-Shot Speech Editing and TTS in the Wild - Shang-Wen Li (Meta)",
+      "url": "https://www.youtube.com/watch?v=JidtdZVtpkI",
+      "series": "VoiceCraft",
+      "topics": [
+        "speech-and-audio",
+        "model-editing-and-merging"
+      ]
+    },
+    {
+      "playlist_position": 36,
+      "video_id": "ExDfqz8NfnE",
+      "title": "Challenges in Developing Universal Audio Foundation Model - Dongchao Yang (CUHK)",
+      "url": "https://www.youtube.com/watch?v=ExDfqz8NfnE",
+      "series": "Challenges in Developing Universal Audio Foundation Model",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 37,
+      "video_id": "Zjpl84KCTvw",
+      "title": "Audio Language Models - Neil Zeghidour (Moshi)",
+      "url": "https://www.youtube.com/watch?v=Zjpl84KCTvw",
+      "series": "Audio Language Models",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 38,
+      "video_id": "OYN_GvAqv-A",
+      "title": "【生成式AI導論 2024】第18講：有關影像的生成式AI (下) — 快速導讀經典影像生成方法 (VAE, Flow, Diffusion, GAN) 以及與生成的影片互動",
+      "url": "https://www.youtube.com/watch?v=OYN_GvAqv-A",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 39,
+      "video_id": "5H2bVEmYDNg",
+      "title": "【生成式AI導論 2024】第17講：有關影像的生成式AI (上) — AI 如何產生圖片和影片 (Sora 背後可能用的原理)",
+      "url": "https://www.youtube.com/watch?v=5H2bVEmYDNg",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 40,
+      "video_id": "CgQ3lUOpXgc",
+      "title": "GPT-4o 背後可能的語音技術猜測",
+      "url": "https://www.youtube.com/watch?v=CgQ3lUOpXgc",
+      "series": "Standalone Talks",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 41,
+      "video_id": "MAbGgsWKrg8",
+      "title": "【生成式AI導論 2024】第16講：可以加速所有語言模型生成速度的神奇外掛 — Speculative Decoding",
+      "url": "https://www.youtube.com/watch?v=MAbGgsWKrg8",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 42,
+      "video_id": "QbwQR9sjWbs",
+      "title": "【生成式AI導論 2024】第15講：為什麼語言模型用文字接龍，圖片生成不用像素接龍呢？— 淺談生成式人工智慧的生成策略",
+      "url": "https://www.youtube.com/watch?v=QbwQR9sjWbs",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 43,
+      "video_id": "CNTondxaguo",
+      "title": "【生成式AI導論 2024】第14講：淺談大型語言模型相關的安全性議題 (下) — 欺騙大型語言模型",
+      "url": "https://www.youtube.com/watch?v=CNTondxaguo",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 44,
+      "video_id": "MSnvknLywUc",
+      "title": "【生成式AI導論 2024】第13講：淺談大型語言模型相關的安全性議題 (上) — 亡羊補牢、語言模型的偏見、有多少人用 ChatGPT 寫論文審查意見",
+      "url": "https://www.youtube.com/watch?v=MSnvknLywUc",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 45,
+      "video_id": "Hk8Z0uhmWg4",
+      "title": "【生成式AI導論 2024】第12講：淺談檢定大型語言模型能力的各種方式",
+      "url": "https://www.youtube.com/watch?v=Hk8Z0uhmWg4",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 46,
+      "video_id": "rZzfqkfZhY8",
+      "title": "【生成式AI導論 2024】第11講：大型語言模型在「想」什麼呢？ — 淺談大型語言模型的可解釋性",
+      "url": "https://www.youtube.com/watch?v=rZzfqkfZhY8",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 47,
+      "video_id": "uhNsUCb2fJI",
+      "title": "【生成式AI導論 2024】第10講：今日的語言模型是如何做文字接龍的 — 淺談Transformer (已經熟悉 Transformer 的同學可略過本講)",
+      "url": "https://www.youtube.com/watch?v=uhNsUCb2fJI",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 48,
+      "video_id": "2QC9VEBkaqk",
+      "title": "[活動宣傳] Webinar Series for Advancements in Audio, Speech and Language Technology",
+      "url": "https://www.youtube.com/watch?v=2QC9VEBkaqk",
+      "series": "Standalone Talks",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 49,
+      "video_id": "bJZTJ7MjYqg",
+      "title": "【生成式AI導論 2024】第9講：以大型語言模型打造的AI Agent (14:50 教你怎麼打造芙莉蓮一級魔法使考試中出現的泥人哥列姆)",
+      "url": "https://www.youtube.com/watch?v=bJZTJ7MjYqg",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "llm-and-transformers",
+        "agents-and-context",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 50,
+      "video_id": "v12IKvF6Cj8",
+      "title": "【生成式AI導論 2024】第8講：大型語言模型修練史 — 第三階段: 參與實戰，打磨技巧 (Reinforcement Learning from Human Feedback, RLHF)",
+      "url": "https://www.youtube.com/watch?v=v12IKvF6Cj8",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 51,
+      "video_id": "Q9cNkUPXUB8",
+      "title": "【生成式AI導論 2024】第7講：大型語言模型修練史 — 第二階段: 名師指點，發揮潛力 (兼談對 ChatGPT 做逆向工程與 LLaMA 時代的開始)",
+      "url": "https://www.youtube.com/watch?v=Q9cNkUPXUB8",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 52,
+      "video_id": "cCpErV7To2o",
+      "title": "【生成式AI導論 2024】第6講：大型語言模型修練史 — 第一階段: 自我學習，累積實力 (熟悉機器學習的同學從 15:00 開始看起即可)",
+      "url": "https://www.youtube.com/watch?v=cCpErV7To2o",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 53,
+      "video_id": "inebiWdQW-4",
+      "title": "【生成式AI導論 2024】第5講：訓練不了人工智慧？你可以訓練你自己 (下) — 讓語言彼此合作，把一個人活成一個團隊 (開頭有芙莉蓮雷，慎入)",
+      "url": "https://www.youtube.com/watch?v=inebiWdQW-4",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 54,
+      "video_id": "lwe3_x50_uw",
+      "title": "【生成式AI導論 2024】第4講：訓練不了人工智慧？你可以訓練你自己 (中) — 拆解問題與使用工具",
+      "url": "https://www.youtube.com/watch?v=lwe3_x50_uw",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 55,
+      "video_id": "A3Yx35KrSN0",
+      "title": "【生成式AI導論 2024】第3講：訓練不了人工智慧？你可以訓練你自己 (上) — 神奇咒語與提供更多資訊",
+      "url": "https://www.youtube.com/watch?v=A3Yx35KrSN0",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 56,
+      "video_id": "glBhOQ1_RkE",
+      "title": "【生成式AI導論 2024】第2講：今日的生成式人工智慧厲害在哪裡？從「工具」變為「工具人」",
+      "url": "https://www.youtube.com/watch?v=glBhOQ1_RkE",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 57,
+      "video_id": "JGtqpQXfJis",
+      "title": "【生成式AI導論 2024】第1講：生成式AI是什麼？",
+      "url": "https://www.youtube.com/watch?v=JGtqpQXfJis",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 58,
+      "video_id": "AVIKFXLCPY8",
+      "title": "【生成式AI導論 2024】第0講：課程說明 (17:15 有芙莉蓮雷)",
+      "url": "https://www.youtube.com/watch?v=AVIKFXLCPY8",
+      "series": "生成式AI導論 2024",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 59,
+      "video_id": "wG8-IUtqu-s",
+      "title": "80分鐘快速了解大型語言模型 (5:30 有咒術迴戰雷)",
+      "url": "https://www.youtube.com/watch?v=wG8-IUtqu-s",
+      "series": "80分鐘快速了解大型語言模型 (5",
+      "topics": [
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 60,
+      "video_id": "VpKN3KvSK6c",
+      "title": "【生成式AI 2023】FrugalGPT: 來看看窮人怎麼用省錢的方式來使用 ChatGPT (下)",
+      "url": "https://www.youtube.com/watch?v=VpKN3KvSK6c",
+      "series": "生成式AI 2023",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 61,
+      "video_id": "vxxPtDCb9Go",
+      "title": "【生成式AI 2023】FrugalGPT: 來看看窮人怎麼用省錢的方式來使用 ChatGPT (上)",
+      "url": "https://www.youtube.com/watch?v=vxxPtDCb9Go",
+      "series": "生成式AI 2023",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 62,
+      "video_id": "eQNADlR0jSs",
+      "title": "【生成式AI 2023】讓 AI 做計劃然後自己運行自己",
+      "url": "https://www.youtube.com/watch?v=eQNADlR0jSs",
+      "series": "生成式AI 2023",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 63,
+      "video_id": "OOvhBIIHITE",
+      "title": "【生成式AI 2023】用語言模型來解釋語言模型 (下)",
+      "url": "https://www.youtube.com/watch?v=OOvhBIIHITE",
+      "series": "生成式AI 2023",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 64,
+      "video_id": "GBXm30qRAqg",
+      "title": "【生成式AI 2023】用語言模型來解釋語言模型 (上)",
+      "url": "https://www.youtube.com/watch?v=GBXm30qRAqg",
+      "series": "生成式AI 2023",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 65,
+      "video_id": "m7Be7ppR6q0",
+      "title": "【機器學習2023】語音基石模型 (助教張凱為講授) (1/2)",
+      "url": "https://www.youtube.com/watch?v=m7Be7ppR6q0",
+      "series": "機器學習2023",
+      "topics": [
+        "ml-fundamentals",
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 66,
+      "video_id": "HTAq-CPrU5s",
+      "title": "【機器學習2023】語音基石模型 (助教張凱為講授) (2/2)",
+      "url": "https://www.youtube.com/watch?v=HTAq-CPrU5s",
+      "series": "機器學習2023",
+      "topics": [
+        "ml-fundamentals",
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 67,
+      "video_id": "m7dUFlX-yQI",
+      "title": "【生成式AI】ChatGPT 可以自我反省!",
+      "url": "https://www.youtube.com/watch?v=m7dUFlX-yQI",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 68,
+      "video_id": "G44Lkj7XDsA",
+      "title": "【生成式AI】讓 AI 村民組成虛擬村莊會發生甚麼事？",
+      "url": "https://www.youtube.com/watch?v=G44Lkj7XDsA",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 69,
+      "video_id": "rK_rZFew1yc",
+      "title": "【生成式AI】窮人如何低資源復刻自己的 ChatGPT",
+      "url": "https://www.youtube.com/watch?v=rK_rZFew1yc",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 70,
+      "video_id": "67_M2qP5ssY",
+      "title": "【生成式AI】Diffusion Model 原理剖析 (4/4) (optional)",
+      "url": "https://www.youtube.com/watch?v=67_M2qP5ssY",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 71,
+      "video_id": "m6QchXTx6wA",
+      "title": "【生成式AI】Diffusion Model 原理剖析 (3/4) (optional)",
+      "url": "https://www.youtube.com/watch?v=m6QchXTx6wA",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 72,
+      "video_id": "73qwu77ZsTM",
+      "title": "【生成式AI】Diffusion Model 原理剖析 (2/4) (optional)",
+      "url": "https://www.youtube.com/watch?v=73qwu77ZsTM",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 73,
+      "video_id": "ifCDXFdeaaM",
+      "title": "【生成式AI】Diffusion Model 原理剖析 (1/4) (optional)",
+      "url": "https://www.youtube.com/watch?v=ifCDXFdeaaM",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 74,
+      "video_id": "JbfcAaBT66U",
+      "title": "【生成式AI】Stable Diffusion、DALL-E、Imagen 背後共同的套路",
+      "url": "https://www.youtube.com/watch?v=JbfcAaBT66U",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 75,
+      "video_id": "azBugJzmz-o",
+      "title": "【生成式AI】淺談圖像生成模型 Diffusion Model 原理",
+      "url": "https://www.youtube.com/watch?v=azBugJzmz-o",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 76,
+      "video_id": "z83Edfvgd9g",
+      "title": "【生成式AI】速覽圖像生成常見模型",
+      "url": "https://www.youtube.com/watch?v=z83Edfvgd9g",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 77,
+      "video_id": "kslijcrYizE",
+      "title": "【生成式AI】GPT-4 來了! GPT-4 這次有什麼神奇的能力呢？",
+      "url": "https://www.youtube.com/watch?v=kslijcrYizE",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 78,
+      "video_id": "V-3ksGCjehU",
+      "title": "【生成式AI】大模型 + 大資料 = 神奇結果？(3/3)：另闢蹊徑 — KNNLM",
+      "url": "https://www.youtube.com/watch?v=V-3ksGCjehU",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 79,
+      "video_id": "qycxA-xX_OY",
+      "title": "【生成式AI】大模型 + 大資料 = 神奇結果？(2/3)：到底要多少資料才夠",
+      "url": "https://www.youtube.com/watch?v=qycxA-xX_OY",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 80,
+      "video_id": "SaZTJJNOCOY",
+      "title": "【生成式AI】大模型 + 大資料 = 神奇結果？(1/3)：大模型的頓悟時刻",
+      "url": "https://www.youtube.com/watch?v=SaZTJJNOCOY",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 81,
+      "video_id": "HnzDaEiN_eg",
+      "title": "【生成式AI】Finetuning vs. Prompting：對於大型語言模型的不同期待所衍生的兩類使用方式 (3/3)",
+      "url": "https://www.youtube.com/watch?v=HnzDaEiN_eg",
+      "series": "生成式AI",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 82,
+      "video_id": "aZ_jXZvxyVg",
+      "title": "【生成式AI】Finetuning vs. Prompting：對於大型語言模型的不同期待所衍生的兩類使用方式 (2/3)",
+      "url": "https://www.youtube.com/watch?v=aZ_jXZvxyVg",
+      "series": "生成式AI",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 83,
+      "video_id": "F58vJcGgjt0",
+      "title": "【生成式AI】Finetuning vs. Prompting：對於大型語言模型的不同期待所衍生的兩類使用方式 (1/3)",
+      "url": "https://www.youtube.com/watch?v=F58vJcGgjt0",
+      "series": "生成式AI",
+      "topics": [
+        "llm-and-transformers",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 84,
+      "video_id": "ZID220t_MpI",
+      "title": "【生成式AI】能夠使用工具的AI：New Bing, WebGPT, Toolformer",
+      "url": "https://www.youtube.com/watch?v=ZID220t_MpI",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 85,
+      "video_id": "AihBniegMKg",
+      "title": "【生成式AI】生成式學習的兩種策略：要各個擊破，還是要一次到位",
+      "url": "https://www.youtube.com/watch?v=AihBniegMKg",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 86,
+      "video_id": "XLyPFnephpY",
+      "title": "【生成式AI】快速了解機器學習基本原理 (2/2) (已經略懂機器學習的同學可以跳過這段)",
+      "url": "https://www.youtube.com/watch?v=XLyPFnephpY",
+      "series": "生成式AI",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 87,
+      "video_id": "phQK8xZpgoU",
+      "title": "【生成式AI】快速了解機器學習基本原理 (1/2) (已經略懂機器學習的同學可以跳過這段)",
+      "url": "https://www.youtube.com/watch?v=phQK8xZpgoU",
+      "series": "生成式AI",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 88,
+      "video_id": "A-6c584jxX8",
+      "title": "【生成式AI】用 ChatGPT 和 Midjourney 來玩文字冒險遊戲",
+      "url": "https://www.youtube.com/watch?v=A-6c584jxX8",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 89,
+      "video_id": "UsaZhQ9bY2k",
+      "title": "【生成式AI】ChatGPT 原理剖析 (3/3) — ChatGPT 所帶來的研究問題",
+      "url": "https://www.youtube.com/watch?v=UsaZhQ9bY2k",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 90,
+      "video_id": "1ah7Qsri_c8",
+      "title": "【生成式AI】ChatGPT 原理剖析 (2/3) — 預訓練 (Pre-train)",
+      "url": "https://www.youtube.com/watch?v=1ah7Qsri_c8",
+      "series": "生成式AI",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 91,
+      "video_id": "yiY4nPOzJEg",
+      "title": "【生成式AI】ChatGPT 原理剖析 (1/3) — 對 ChatGPT 的常見誤解",
+      "url": "https://www.youtube.com/watch?v=yiY4nPOzJEg",
+      "series": "生成式AI",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 92,
+      "video_id": "e0aKI2GGZNg",
+      "title": "ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程",
+      "url": "https://www.youtube.com/watch?v=e0aKI2GGZNg",
+      "series": "ChatGPT (可能)是怎麼煉成的",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 93,
+      "video_id": "sWz4e-DM4JU",
+      "title": "Meta 語音對語音翻譯技術背後的黑科技 (在繪圖 AI 中也有用上喔!)",
+      "url": "https://www.youtube.com/watch?v=sWz4e-DM4JU",
+      "series": "Standalone Talks",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 94,
+      "video_id": "KPcA8QCTm5U",
+      "title": "AlphaTensor: 用增強式學習 (Reinforcement Learning) 找出更有效率的矩陣相乘演算法 (線性代數 2022 課程補充)",
+      "url": "https://www.youtube.com/watch?v=KPcA8QCTm5U",
+      "series": "AlphaTensor",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 95,
+      "video_id": "QNfymMRUg3M",
+      "title": "【機器學習 2022】各種奇葩的元學習 (Meta Learning) 用法",
+      "url": "https://www.youtube.com/watch?v=QNfymMRUg3M",
+      "series": "機器學習 2022",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 96,
+      "video_id": "Pal2DbmiYpk",
+      "title": "【機器學習 2022】惡搞自督導式學習模型 BERT 的三個故事",
+      "url": "https://www.youtube.com/watch?v=Pal2DbmiYpk",
+      "series": "機器學習 2022",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 97,
+      "video_id": "uHKXwwQ7A_s",
+      "title": "【機器學習2022】自然語言處理上的模仿攻擊 (Imitation Attack) 以及後門攻擊 (Backdoor Attack) (由姜成翰助教講授)",
+      "url": "https://www.youtube.com/watch?v=uHKXwwQ7A_s",
+      "series": "機器學習2022",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 98,
+      "video_id": "LP3q72MwE7A",
+      "title": "【機器學習2022】自然語言處理上的對抗式攻擊 (由姜成翰助教講授) - Part 3",
+      "url": "https://www.youtube.com/watch?v=LP3q72MwE7A",
+      "series": "機器學習2022",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 99,
+      "video_id": "68lwXWFzCmg",
+      "title": "【機器學習2022】自然語言處理上的對抗式攻擊 (由姜成翰助教講授) - Part 2",
+      "url": "https://www.youtube.com/watch?v=68lwXWFzCmg",
+      "series": "機器學習2022",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 100,
+      "video_id": "z-lRPFFYVJc",
+      "title": "【機器學習2022】自然語言處理上的對抗式攻擊 (由姜成翰助教講授) - Part 1",
+      "url": "https://www.youtube.com/watch?v=z-lRPFFYVJc",
+      "series": "機器學習2022",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 101,
+      "video_id": "lMIN1iKYNmA",
+      "title": "【機器學習 2022】語音與影像上的神奇自督導式學習 (Self-supervised Learning) 模型",
+      "url": "https://www.youtube.com/watch?v=lMIN1iKYNmA",
+      "series": "機器學習 2022",
+      "topics": [
+        "ml-fundamentals",
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 102,
+      "video_id": "NzElV8jTNmw",
+      "title": "【機器學習 2022】如何有效的使用自督導式模型 - Data-Efficient & Parameter-Efficient Tuning (由姜成翰助教講授)",
+      "url": "https://www.youtube.com/watch?v=NzElV8jTNmw",
+      "series": "機器學習 2022",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 103,
+      "video_id": "yHoAq1IT_og",
+      "title": "【機器學習 2022】各式各樣神奇的自注意力機制 (Self-attention) 變型",
+      "url": "https://www.youtube.com/watch?v=yHoAq1IT_og",
+      "series": "機器學習 2022",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 104,
+      "video_id": "yXd2D5J0QDU",
+      "title": "【機器學習 2022】魚與熊掌可以兼得的深度學習",
+      "url": "https://www.youtube.com/watch?v=yXd2D5J0QDU",
+      "series": "機器學習 2022",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 105,
+      "video_id": "xQXh3fSvD1A",
+      "title": "【機器學習 2022】為什麼用了驗證集 (validation set) 結果卻還是過擬合(overfitting)了呢？",
+      "url": "https://www.youtube.com/watch?v=xQXh3fSvD1A",
+      "series": "機器學習 2022",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 106,
+      "video_id": "_j9MVVcvyZI",
+      "title": "【機器學習 2022】再探寶可夢、數碼寶貝分類器 — 淺談機器學習原理",
+      "url": "https://www.youtube.com/watch?v=_j9MVVcvyZI",
+      "series": "機器學習 2022",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 107,
+      "video_id": "7XZR0-4uS5s",
+      "title": "【機器學習2022】開學囉~ 又要週更了~",
+      "url": "https://www.youtube.com/watch?v=7XZR0-4uS5s",
+      "series": "機器學習2022",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 108,
+      "video_id": "GTjwYzFG54E",
+      "title": "SUPERB: Is self-supervised learning universal in speech processing tasks? (English version)",
+      "url": "https://www.youtube.com/watch?v=GTjwYzFG54E",
+      "series": "SUPERB",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 109,
+      "video_id": "MpsVE60iRLM",
+      "title": "SUPERB: 語音上的自督導式學習模型居然十項全能？",
+      "url": "https://www.youtube.com/watch?v=MpsVE60iRLM",
+      "series": "SUPERB",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 110,
+      "video_id": "mGRdOGdOZ-4",
+      "title": "[ML 2021 (English version)] Lecture 36: Network Compression (2/2)",
+      "url": "https://www.youtube.com/watch?v=mGRdOGdOZ-4",
+      "series": "[ML 2021 (English version)] Lecture 36",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 111,
+      "video_id": "CB0a3aBwND8",
+      "title": "[ML 2021 (English version)] Lecture 35: Network Compression (1/2)",
+      "url": "https://www.youtube.com/watch?v=CB0a3aBwND8",
+      "series": "[ML 2021 (English version)] Lecture 35",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 112,
+      "video_id": "JXDjNh2qlfc",
+      "title": "【機器學習2021】課程結語 - 最後的業配並改編《為學一首示子姪》作結",
+      "url": "https://www.youtube.com/watch?v=JXDjNh2qlfc",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 113,
+      "video_id": "Q68Eh-wm1Ts",
+      "title": "【機器學習2021】元學習 Meta Learning (二) - 萬物皆可 Meta",
+      "url": "https://www.youtube.com/watch?v=Q68Eh-wm1Ts",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 114,
+      "video_id": "xoastiYx9JU",
+      "title": "【機器學習2021】元學習 Meta Learning (一) - 元學習跟機器學習一樣也是三個步驟",
+      "url": "https://www.youtube.com/watch?v=xoastiYx9JU",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 115,
+      "video_id": "xrlbLPaq_Og",
+      "title": "【機器學習2021】神經網路壓縮 (Network Compression) (二) - 從各種不同的面向來壓縮神經網路",
+      "url": "https://www.youtube.com/watch?v=xrlbLPaq_Og",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 116,
+      "video_id": "9H3ShV57lHs",
+      "title": "[ML 2021 (English version)] Lecture 32: Introduction of Reinforcement Learning (RL) (5/5)",
+      "url": "https://www.youtube.com/watch?v=9H3ShV57lHs",
+      "series": "[ML 2021 (English version)] Lecture 32",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 117,
+      "video_id": "Cf-WkM-Xef0",
+      "title": "[ML 2021 (English version)] Lecture 30: Introduction of Reinforcement Learning (RL) (3/5)",
+      "url": "https://www.youtube.com/watch?v=Cf-WkM-Xef0",
+      "series": "[ML 2021 (English version)] Lecture 30",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 118,
+      "video_id": "pibO_5JhQ4U",
+      "title": "[ML 2021 (English version)] Lecture 31: Introduction of Reinforcement Learning (RL) (4/5)",
+      "url": "https://www.youtube.com/watch?v=pibO_5JhQ4U",
+      "series": "[ML 2021 (English version)] Lecture 31",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 119,
+      "video_id": "yAX8Ydfek_I",
+      "title": "[ML 2021 (English version)] Lecture 33: Life-long Learning (1/2)",
+      "url": "https://www.youtube.com/watch?v=yAX8Ydfek_I",
+      "series": "[ML 2021 (English version)] Lecture 33",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 120,
+      "video_id": "-2r4cqDP4BY",
+      "title": "[ML 2021 (English version)] Lecture 34: Life-long Learning (2/2)",
+      "url": "https://www.youtube.com/watch?v=-2r4cqDP4BY",
+      "series": "[ML 2021 (English version)] Lecture 34",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 121,
+      "video_id": "utk3EnAUh-g",
+      "title": "【機器學習2021】神經網路壓縮 (Network Compression) (一) - 類神經網路剪枝 (Pruning) 與大樂透假說 (Lottery Ticket Hypothesis)",
+      "url": "https://www.youtube.com/watch?v=utk3EnAUh-g",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 122,
+      "video_id": "Y9Jay_vxOsM",
+      "title": "【機器學習2021】機器終身學習 (Life Long Learning, LL) (二) - 災難性遺忘(Catastrophic Forgetting)的克服之道",
+      "url": "https://www.youtube.com/watch?v=Y9Jay_vxOsM",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals",
+        "model-editing-and-merging"
+      ]
+    },
+    {
+      "playlist_position": 123,
+      "video_id": "rWF9sg5w6Zk",
+      "title": "【機器學習2021】機器終身學習 (Life Long Learning, LL) (一) - 為什麼今日的人工智慧無法成為天網？災難性遺忘(Catastrophic Forgetting)",
+      "url": "https://www.youtube.com/watch?v=rWF9sg5w6Zk",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals",
+        "model-editing-and-merging"
+      ]
+    },
+    {
+      "playlist_position": 124,
+      "video_id": "75rZwxKBAf0",
+      "title": "【機器學習2021】概述增強式學習 (Reinforcement Learning, RL) (五) - 如何從示範中學習？逆向增強式學習 (Inverse RL)",
+      "url": "https://www.youtube.com/watch?v=75rZwxKBAf0",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 125,
+      "video_id": "73YyF1gmIus",
+      "title": "【機器學習2021】概述增強式學習 (Reinforcement Learning, RL) (四) - 回饋非常罕見的時候怎麼辦？機器的望梅止渴",
+      "url": "https://www.youtube.com/watch?v=73YyF1gmIus",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 126,
+      "video_id": "kk6DqWreLeU",
+      "title": "【機器學習2021】概述增強式學習 (Reinforcement Learning, RL) (三) - Actor-Critic",
+      "url": "https://www.youtube.com/watch?v=kk6DqWreLeU",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 127,
+      "video_id": "jbN0oYLtXps",
+      "title": "[ML 2021 (English version)] Lecture 29: Introduction of Reinforcement Learning (RL) (2/5)",
+      "url": "https://www.youtube.com/watch?v=jbN0oYLtXps",
+      "series": "[ML 2021 (English version)] Lecture 29",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 128,
+      "video_id": "8AKqH6V9kjE",
+      "title": "[ML 2021 (English version)] Lecture 27: Domain Adaptation",
+      "url": "https://www.youtube.com/watch?v=8AKqH6V9kjE",
+      "series": "[ML 2021 (English version)] Lecture 27",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 129,
+      "video_id": "0oucZNfBXlI",
+      "title": "[ML 2021 (English version)] Lecture 28: Introduction of Reinforcement Learning (RL) (1/5)",
+      "url": "https://www.youtube.com/watch?v=0oucZNfBXlI",
+      "series": "[ML 2021 (English version)] Lecture 28",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 130,
+      "video_id": "5VPy7OGlGMQ",
+      "title": "[ML 2021 (English version)] Lecture 26: Explainable ML (2/2)",
+      "url": "https://www.youtube.com/watch?v=5VPy7OGlGMQ",
+      "series": "[ML 2021 (English version)] Lecture 26",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 131,
+      "video_id": "US8DFaAZcp4",
+      "title": "【機器學習2021】概述增強式學習 (Reinforcement Learning, RL) (二) – Policy Gradient 與修課心情",
+      "url": "https://www.youtube.com/watch?v=US8DFaAZcp4",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 132,
+      "video_id": "XWukX-ayIrs",
+      "title": "【機器學習2021】概述增強式學習 (Reinforcement Learning, RL) (一) – 增強式學習跟機器學習一樣都是三個步驟",
+      "url": "https://www.youtube.com/watch?v=XWukX-ayIrs",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 133,
+      "video_id": "0ayIPqbdHYQ",
+      "title": "【機器學習2021】機器學習模型的可解釋性 (Explainable ML) (下) –機器心中的貓長什麼樣子？",
+      "url": "https://www.youtube.com/watch?v=0ayIPqbdHYQ",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 134,
+      "video_id": "Mnk_oUrgppM",
+      "title": "【機器學習2021】概述領域自適應 (Domain Adaptation)",
+      "url": "https://www.youtube.com/watch?v=Mnk_oUrgppM",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 135,
+      "video_id": "4rVD1EOaAX4",
+      "title": "[ML 2021 (English version)] Lecture 25: Explainable ML (1/2)",
+      "url": "https://www.youtube.com/watch?v=4rVD1EOaAX4",
+      "series": "[ML 2021 (English version)] Lecture 25",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 136,
+      "video_id": "kRmBiV2X810",
+      "title": "[ML 2021 (English version)] Lecture 24:  Adversarial Attack (2/2)",
+      "url": "https://www.youtube.com/watch?v=kRmBiV2X810",
+      "series": "[ML 2021 (English version)] Lecture 24",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 137,
+      "video_id": "WQY85vaQfTI",
+      "title": "【機器學習2021】機器學習模型的可解釋性 (Explainable ML) (上) – 為什麼類神經網路可以正確分辨寶可夢和數碼寶貝呢？",
+      "url": "https://www.youtube.com/watch?v=WQY85vaQfTI",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 138,
+      "video_id": "z-Q9ia5H2Ig",
+      "title": "【機器學習2021】來自人類的惡意攻擊 (Adversarial Attack) (下) – 類神經網路能否躲過人類深不見底的惡意？",
+      "url": "https://www.youtube.com/watch?v=z-Q9ia5H2Ig",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 139,
+      "video_id": "6sAf24QvJEY",
+      "title": "[ML 2021 (English version)] Lecture 20:  Self-supervised Learning (aka Foundation Model) (3/3)",
+      "url": "https://www.youtube.com/watch?v=6sAf24QvJEY",
+      "series": "[ML 2021 (English version)] Lecture 20",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 140,
+      "video_id": "E7wlA85RxcI",
+      "title": "[ML 2021 (English version)] Lecture 21:  Auto-encoder (1/2)",
+      "url": "https://www.youtube.com/watch?v=E7wlA85RxcI",
+      "series": "[ML 2021 (English version)] Lecture 21",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 141,
+      "video_id": "xw6K4naFWFg",
+      "title": "[ML 2021 (English version)] Lecture 23:  Adversarial Attack (1/2)",
+      "url": "https://www.youtube.com/watch?v=xw6K4naFWFg",
+      "series": "[ML 2021 (English version)] Lecture 23",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 142,
+      "video_id": "PsBHWq9KKqk",
+      "title": "[ML 2021 (English version)] Lecture 22:  Auto-encoder (2/2)",
+      "url": "https://www.youtube.com/watch?v=PsBHWq9KKqk",
+      "series": "[ML 2021 (English version)] Lecture 22",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 143,
+      "video_id": "JZvEzb5PV3U",
+      "title": "【機器學習2021】自編碼器 (Auto-encoder) (下) – 領結變聲器與更多應用",
+      "url": "https://www.youtube.com/watch?v=JZvEzb5PV3U",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 144,
+      "video_id": "xGQKhbjrFRk",
+      "title": "【機器學習2021】來自人類的惡意攻擊 (Adversarial Attack) (上) – 基本概念",
+      "url": "https://www.youtube.com/watch?v=xGQKhbjrFRk",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 145,
+      "video_id": "3oHlf8-J3Nc",
+      "title": "【機器學習2021】自編碼器 (Auto-encoder) (上) – 基本概念",
+      "url": "https://www.youtube.com/watch?v=3oHlf8-J3Nc",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 146,
+      "video_id": "WY_E0Sd4K80",
+      "title": "【機器學習2021】自督導式學習 (Self-supervised Learning) (四) – GPT的野望",
+      "url": "https://www.youtube.com/watch?v=WY_E0Sd4K80",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 147,
+      "video_id": "XcAmPtMQqS8",
+      "title": "[ML 2021 (English version)] Lecture 16:  Generative Adversarial Network (GAN) (3/4)",
+      "url": "https://www.youtube.com/watch?v=XcAmPtMQqS8",
+      "series": "[ML 2021 (English version)] Lecture 16",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 148,
+      "video_id": "6xRAiKAYPxU",
+      "title": "[ML 2021 (English version)] Lecture 17:  Generative Adversarial Network (GAN) (4/4)",
+      "url": "https://www.youtube.com/watch?v=6xRAiKAYPxU",
+      "series": "[ML 2021 (English version)] Lecture 17",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 149,
+      "video_id": "mEcVirwmrkA",
+      "title": "[ML 2021 (English version)] Lecture 18:  Self-supervised Learning (aka Foundation Model) (1/3)",
+      "url": "https://www.youtube.com/watch?v=mEcVirwmrkA",
+      "series": "[ML 2021 (English version)] Lecture 18",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 150,
+      "video_id": "L-ZQ-6vKOxU",
+      "title": "[ML 2021 (English version)] Lecture 19:  Self-supervised Learning (aka Foundation Model) (2/3)",
+      "url": "https://www.youtube.com/watch?v=L-ZQ-6vKOxU",
+      "series": "[ML 2021 (English version)] Lecture 19",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 151,
+      "video_id": "ExXA05i8DEQ",
+      "title": "【機器學習2021】自督導式學習 (Self-supervised Learning) (三) – BERT的奇聞軼事",
+      "url": "https://www.youtube.com/watch?v=ExXA05i8DEQ",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 152,
+      "video_id": "gh0hewYkjgo",
+      "title": "【機器學習2021】自督導式學習 (Self-supervised Learning) (二) – BERT簡介",
+      "url": "https://www.youtube.com/watch?v=gh0hewYkjgo",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 153,
+      "video_id": "e422eloJ0W4",
+      "title": "【機器學習2021】自督導式學習 (Self-supervised Learning) (一) – 芝麻街與進擊的巨人",
+      "url": "https://www.youtube.com/watch?v=e422eloJ0W4",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 154,
+      "video_id": "wulqhgnDr7E",
+      "title": "【機器學習2021】生成式對抗網路 (Generative Adversarial Network, GAN) (四) – Cycle GAN",
+      "url": "https://www.youtube.com/watch?v=wulqhgnDr7E",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 155,
+      "video_id": "MP0BnVH2yOo",
+      "title": "【機器學習2021】生成式對抗網路 (Generative Adversarial Network, GAN) (三) – 生成器效能評估與條件式生成",
+      "url": "https://www.youtube.com/watch?v=MP0BnVH2yOo",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation",
+        "evaluation-and-benchmarks"
+      ]
+    },
+    {
+      "playlist_position": 156,
+      "video_id": "kFhv1I_fbZI",
+      "title": "[ML 2021 (English version)] Lecture 15:  Generative Adversarial Network (GAN) (2/4)",
+      "url": "https://www.youtube.com/watch?v=kFhv1I_fbZI",
+      "series": "[ML 2021 (English version)] Lecture 15",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 157,
+      "video_id": "Mb9kddLfLRI",
+      "title": "[ML 2021 (English version)] Lecture 14:  Generative Adversarial Network (GAN) (1/4)",
+      "url": "https://www.youtube.com/watch?v=Mb9kddLfLRI",
+      "series": "[ML 2021 (English version)] Lecture 14",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 158,
+      "video_id": "fPTj5Zh1ACo",
+      "title": "[ML 2021 (English version)] Lecture 13: Transformer (2/2)",
+      "url": "https://www.youtube.com/watch?v=fPTj5Zh1ACo",
+      "series": "[ML 2021 (English version)] Lecture 13",
+      "topics": [
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 159,
+      "video_id": "zmOuJkH9l9M",
+      "title": "[ML 2021 (English version)] Lecture 12: Transformer (1/2)",
+      "url": "https://www.youtube.com/watch?v=zmOuJkH9l9M",
+      "series": "[ML 2021 (English version)] Lecture 12",
+      "topics": [
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 160,
+      "video_id": "t3u3WshJQV8",
+      "title": "[ML 2021 (English version)] Lecture 7: What to do when optimization fails? (4/4)",
+      "url": "https://www.youtube.com/watch?v=t3u3WshJQV8",
+      "series": "[ML 2021 (English version)] Lecture 7",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 161,
+      "video_id": "zeCDPYZli0k",
+      "title": "[ML 2021 (English version)] Lecture 11: Self-attention (2/2)",
+      "url": "https://www.youtube.com/watch?v=zeCDPYZli0k",
+      "series": "[ML 2021 (English version)] Lecture 11",
+      "topics": [
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 162,
+      "video_id": "8yf-tU7zm7w",
+      "title": "[ML 2021 (English version)] Lecture 6: What to do when optimization fails? (3/4)",
+      "url": "https://www.youtube.com/watch?v=8yf-tU7zm7w",
+      "series": "[ML 2021 (English version)] Lecture 6",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 163,
+      "video_id": "jNY1WBb8l4U",
+      "title": "【機器學習2021】生成式對抗網路 (Generative Adversarial Network, GAN) (二) – 理論介紹與WGAN",
+      "url": "https://www.youtube.com/watch?v=jNY1WBb8l4U",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 164,
+      "video_id": "4OWp0wDu6Xw",
+      "title": "【機器學習2021】生成式對抗網路 (Generative Adversarial Network, GAN) (一) – 基本概念介紹",
+      "url": "https://www.youtube.com/watch?v=4OWp0wDu6Xw",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals",
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 165,
+      "video_id": "N6aRv06iv2g",
+      "title": "【機器學習2021】Transformer (下)",
+      "url": "https://www.youtube.com/watch?v=N6aRv06iv2g",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 166,
+      "video_id": "gmsMY5kc-zw",
+      "title": "【機器學習2021】自注意力機制 (Self-attention) (下)",
+      "url": "https://www.youtube.com/watch?v=gmsMY5kc-zw",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 167,
+      "video_id": "n9TlOhRjYoc",
+      "title": "【機器學習2021】Transformer (上)",
+      "url": "https://www.youtube.com/watch?v=n9TlOhRjYoc",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 168,
+      "video_id": "BABPWOkSbLE",
+      "title": "【機器學習2021】類神經網路訓練不起來怎麼辦 (五)： 批次標準化 (Batch Normalization) 簡介",
+      "url": "https://www.youtube.com/watch?v=BABPWOkSbLE",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 169,
+      "video_id": "0djMUi2-uV4",
+      "title": "[ML 2021 (English version)] Lecture 10: Self-attention (1/2)",
+      "url": "https://www.youtube.com/watch?v=0djMUi2-uV4",
+      "series": "[ML 2021 (English version)] Lecture 10",
+      "topics": [
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 170,
+      "video_id": "I4eLIsPM9Yc",
+      "title": "[ML 2021 (English version)] Lecture 9: Convolutional Neural Networks",
+      "url": "https://www.youtube.com/watch?v=I4eLIsPM9Yc",
+      "series": "[ML 2021 (English version)] Lecture 9",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 171,
+      "video_id": "jqVONJ-Wn8w",
+      "title": "[ML 2021 (English version)] Lecture 8: Classification (Short Version)",
+      "url": "https://www.youtube.com/watch?v=jqVONJ-Wn8w",
+      "series": "[ML 2021 (English version)] Lecture 8",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 172,
+      "video_id": "MNoEQ9w-AbE",
+      "title": "[ML 2021 (English version)] Lecture 5: What to do when optimization fails? (2/4)",
+      "url": "https://www.youtube.com/watch?v=MNoEQ9w-AbE",
+      "series": "[ML 2021 (English version)] Lecture 5",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 173,
+      "video_id": "yz7QS1I6omw",
+      "title": "[ML 2021 (English version)] Lecture 4: What to do when optimization fails? (1/4)",
+      "url": "https://www.youtube.com/watch?v=yz7QS1I6omw",
+      "series": "[ML 2021 (English version)] Lecture 4",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 174,
+      "video_id": "3qgKpBptyFY",
+      "title": "[ML 2021 (English version)] Lecture 3: Roadmap of Improving Model",
+      "url": "https://www.youtube.com/watch?v=3qgKpBptyFY",
+      "series": "[ML 2021 (English version)] Lecture 3",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 175,
+      "video_id": "OP5HcXJg2Aw",
+      "title": "【機器學習2021】卷積神經網路 (Convolutional Neural Networks, CNN)",
+      "url": "https://www.youtube.com/watch?v=OP5HcXJg2Aw",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 176,
+      "video_id": "hYdO9CscNes",
+      "title": "【機器學習2021】自注意力機制 (Self-attention) (上)",
+      "url": "https://www.youtube.com/watch?v=hYdO9CscNes",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals",
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 177,
+      "video_id": "HYUXEeh3kwY",
+      "title": "【機器學習2021】類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate)",
+      "url": "https://www.youtube.com/watch?v=HYUXEeh3kwY",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 178,
+      "video_id": "O2VkP8dJ5FE",
+      "title": "【機器學習2021】類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響",
+      "url": "https://www.youtube.com/watch?v=O2VkP8dJ5FE",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 179,
+      "video_id": "QW6uINn7uGk",
+      "title": "【機器學習2021】類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point)",
+      "url": "https://www.youtube.com/watch?v=QW6uINn7uGk",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 180,
+      "video_id": "zzbr1h9sF54",
+      "title": "【機器學習2021】類神經網路訓練不起來怎麼辦 (二)： 批次 (batch) 與動量 (momentum)",
+      "url": "https://www.youtube.com/watch?v=zzbr1h9sF54",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 181,
+      "video_id": "WeHM2xpYQpw",
+      "title": "【機器學習2021】機器學習任務攻略",
+      "url": "https://www.youtube.com/watch?v=WeHM2xpYQpw",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 182,
+      "video_id": "O69EqgzUl9U",
+      "title": "[ML 2021 (English version)] Lecture 2: Predicting the views of this channel - ML Introduction (2/2)",
+      "url": "https://www.youtube.com/watch?v=O69EqgzUl9U",
+      "series": "[ML 2021 (English version)] Lecture 2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 183,
+      "video_id": "Y87Ct23H3Kw",
+      "title": "[ML 2021 (English version)] Lecture 1: Predicting the views of this channel - ML Introduction (1/2)",
+      "url": "https://www.youtube.com/watch?v=Y87Ct23H3Kw",
+      "series": "[ML 2021 (English version)] Lecture 1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 184,
+      "video_id": "bHcJCp2Fyxs",
+      "title": "【機器學習2021】預測本頻道觀看人數 (下) - 深度學習基本概念簡介",
+      "url": "https://www.youtube.com/watch?v=bHcJCp2Fyxs",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 185,
+      "video_id": "Ye018rCVvOo",
+      "title": "【機器學習2021】預測本頻道觀看人數 (上) - 機器學習基本概念簡介",
+      "url": "https://www.youtube.com/watch?v=Ye018rCVvOo",
+      "series": "機器學習2021",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 186,
+      "video_id": "Jjy6ER0bHv8",
+      "title": "ML Lecture 21-1: Recurrent Neural Network (Part I) English version",
+      "url": "https://www.youtube.com/watch?v=Jjy6ER0bHv8",
+      "series": "ML Lecture 21-1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 187,
+      "video_id": "k81atCYWpzg",
+      "title": "[INTERSPEECH 2020] Defense for Black-box Attacks on Anti-spoofing Models by Self-Supervised Learning",
+      "url": "https://www.youtube.com/watch?v=k81atCYWpzg",
+      "series": "Standalone Talks",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 188,
+      "video_id": "RJq_B416V1Q",
+      "title": "[INTERSPEECH 2020] Understanding Self-Attention of Self-Supervised Audio Transformers",
+      "url": "https://www.youtube.com/watch?v=RJq_B416V1Q",
+      "series": "Standalone Talks",
+      "topics": [
+        "llm-and-transformers",
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 189,
+      "video_id": "7mf7nSh8dGE",
+      "title": "[INTERSPEECH 2020] SpeechBERT: Model for End-to-end Spoken Question Answering",
+      "url": "https://www.youtube.com/watch?v=7mf7nSh8dGE",
+      "series": "[INTERSPEECH 2020] SpeechBERT",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 190,
+      "video_id": "rztqT8RXyuI",
+      "title": "[INTERSPEECH 2020] DARTS-ASR: Differentiable Architecture Search for Multilingual Speech Recognition",
+      "url": "https://www.youtube.com/watch?v=rztqT8RXyuI",
+      "series": "[INTERSPEECH 2020] DARTS-ASR",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 191,
+      "video_id": "3b1S20iVyMY",
+      "title": "[INTERSPEECH 2020]  Semi-supervised Learning for Multi-speaker Text-to-speech Synthesis",
+      "url": "https://www.youtube.com/watch?v=3b1S20iVyMY",
+      "series": "Standalone Talks",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 192,
+      "video_id": "rsbT7X2-g7E",
+      "title": "[INTERSPEECH 2020] WG-WaveNet: Real-Time High-Fidelity Speech Synthesis without GPU",
+      "url": "https://www.youtube.com/watch?v=rsbT7X2-g7E",
+      "series": "[INTERSPEECH 2020] WG-WaveNet",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 193,
+      "video_id": "JWGVfVSvQwc",
+      "title": "[INTERSPEECH 2020] VQVC+: One-Shot Voice Conversion by Vector Quantization and U-Net architecture",
+      "url": "https://www.youtube.com/watch?v=JWGVfVSvQwc",
+      "series": "[INTERSPEECH 2020] VQVC+",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 194,
+      "video_id": "FEnFCtNILtI",
+      "title": "[線性代數] Span 的概念",
+      "url": "https://www.youtube.com/watch?v=FEnFCtNILtI",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 195,
+      "video_id": "-zIPQ8hcsps",
+      "title": "[線性代數] 在 Span 時耍廢的向量",
+      "url": "https://www.youtube.com/watch?v=-zIPQ8hcsps",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 196,
+      "video_id": "pZfvmcjIrpE",
+      "title": "[線性代數] 線性組合 (Linear Combination)",
+      "url": "https://www.youtube.com/watch?v=pZfvmcjIrpE",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 197,
+      "video_id": "OHgibs_pDN8",
+      "title": "[線性代數] 線性方程組 (System of Linear Equations) 有解還是無解 (線性代數觀點)",
+      "url": "https://www.youtube.com/watch?v=OHgibs_pDN8",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 198,
+      "video_id": "zchDGSfr_yU",
+      "title": "[線性代數] 線性方程組 (System of Linear Equations) 有解還是無解 (高中觀點)",
+      "url": "https://www.youtube.com/watch?v=zchDGSfr_yU",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 199,
+      "video_id": "6wPSfjwm_qk",
+      "title": "[線性代數] 線性系統 = 線性方程組 (System of Linear Equations) = 矩陣乘上向量",
+      "url": "https://www.youtube.com/watch?v=6wPSfjwm_qk",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 200,
+      "video_id": "OMdCNhJp60M",
+      "title": "[線性代數] 矩陣乘上向量的一些特性",
+      "url": "https://www.youtube.com/watch?v=OMdCNhJp60M",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 201,
+      "video_id": "cf-WpQX70Vs",
+      "title": "[線性代數] 那些有名有姓的矩陣",
+      "url": "https://www.youtube.com/watch?v=cf-WpQX70Vs",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 202,
+      "video_id": "7qwaAhcD2og",
+      "title": "[線性代數] 矩陣 (Matrix)",
+      "url": "https://www.youtube.com/watch?v=7qwaAhcD2og",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 203,
+      "video_id": "Ww3eAfLZjME",
+      "title": "[線性代數] 線性系統 = 線性方程組 (System of Linear Equations)",
+      "url": "https://www.youtube.com/watch?v=Ww3eAfLZjME",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 204,
+      "video_id": "I3hyvWN78Is",
+      "title": "[線性代數] 向量 (Vector)",
+      "url": "https://www.youtube.com/watch?v=I3hyvWN78Is",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 205,
+      "video_id": "J-U_zKg15f4",
+      "title": "[線性代數] 課程速覽",
+      "url": "https://www.youtube.com/watch?v=J-U_zKg15f4",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 206,
+      "video_id": "sc7dicXFoZE",
+      "title": "[線性代數] 線性代數 vs. 電機系其他必修課",
+      "url": "https://www.youtube.com/watch?v=sc7dicXFoZE",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 207,
+      "video_id": "SNT7LAGsLDY",
+      "title": "[線性代數] 這門課在學什麼？",
+      "url": "https://www.youtube.com/watch?v=SNT7LAGsLDY",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 208,
+      "video_id": "OybkIdSNKSc",
+      "title": "[ACL 2020] Worse WER, but Better BLEU? (Speaker: Shun-Po Chuang)",
+      "url": "https://www.youtube.com/watch?v=OybkIdSNKSc",
+      "series": "[ACL 2020] Worse WER, but Better BLEU? (Speaker",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 209,
+      "video_id": "tRDF_w700Uw",
+      "title": "[DLHLP 2020] Dialogue State Tracking (as Question Answering)",
+      "url": "https://www.youtube.com/watch?v=tRDF_w700Uw",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 210,
+      "video_id": "SX6_1-mvkWk",
+      "title": "[TA 補充課] More about Lifelong Learning (由助教楊舒涵同學講授)",
+      "url": "https://www.youtube.com/watch?v=SX6_1-mvkWk",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 211,
+      "video_id": "mk6v2raVGfk",
+      "title": "[DLHLP 2020] Controllable Chatbot",
+      "url": "https://www.youtube.com/watch?v=mk6v2raVGfk",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 212,
+      "video_id": "ZR2AZgupIpc",
+      "title": "[TA 補充課] RL - Model-based, Large-scale, Meta, Multi-agent, Hide-and-seek, Alpha Star (由助教林義聖同學講授)",
+      "url": "https://www.youtube.com/watch?v=ZR2AZgupIpc",
+      "series": "[TA 補充課] RL",
+      "topics": [
+        "agents-and-context"
+      ]
+    },
+    {
+      "playlist_position": 213,
+      "video_id": "h_Lptoq8spQ",
+      "title": "[DLHLP 2020] Deep Learning for Question Answering (2/2)",
+      "url": "https://www.youtube.com/watch?v=h_Lptoq8spQ",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 214,
+      "video_id": "DOG1L9lvsDY",
+      "title": "[DLHLP 2020] 來自獵人暗黑大陸的模型 GPT-3",
+      "url": "https://www.youtube.com/watch?v=DOG1L9lvsDY",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 215,
+      "video_id": "0KNvAYb1emQ",
+      "title": "[DLHLP 2020] Audio BERT (2/2) (由助教紀伯翰同學和助教楊書文同學講授)",
+      "url": "https://www.youtube.com/watch?v=0KNvAYb1emQ",
+      "series": "Standalone Talks",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 216,
+      "video_id": "NN9Q9Jhtvvg",
+      "title": "[DLHLP 2020] Audio BERT (1/2) (由助教劉廷緯同學講授)",
+      "url": "https://www.youtube.com/watch?v=NN9Q9Jhtvvg",
+      "series": "Standalone Talks",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 217,
+      "video_id": "gRfTfXCe3LA",
+      "title": "[DLHLP 2020] Deep Learning for Question Answering (1/2) (重新上傳)",
+      "url": "https://www.youtube.com/watch?v=gRfTfXCe3LA",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 218,
+      "video_id": "9erBrs-VIqc",
+      "title": "[DLHLP 2020] Deep Learning for Dependency Parsing",
+      "url": "https://www.youtube.com/watch?v=9erBrs-VIqc",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 219,
+      "video_id": "8rDN1jUI82g",
+      "title": "[DLHLP 2020] Multilingual BERT",
+      "url": "https://www.youtube.com/watch?v=8rDN1jUI82g",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 220,
+      "video_id": "w0-7BO09kdo",
+      "title": "[TA 補充課] More about Meta Learning (由助教陳建成同學講授) (2/2)",
+      "url": "https://www.youtube.com/watch?v=w0-7BO09kdo",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 221,
+      "video_id": "QBbeIsiqw-U",
+      "title": "[TA 補充課] More about Meta Learning (由助教陳建成同學講授) (1/2)",
+      "url": "https://www.youtube.com/watch?v=QBbeIsiqw-U",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 222,
+      "video_id": "ZGnKfoUb7h8",
+      "title": "[TA 補充課] Self-supervised Learning (由助教劉記良同學講授)",
+      "url": "https://www.youtube.com/watch?v=ZGnKfoUb7h8",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 223,
+      "video_id": "-DQBMAULXX8",
+      "title": "[TA 補充課] More about Domain Adaptation (2/2) (由助教楊晟甫同學講授)",
+      "url": "https://www.youtube.com/watch?v=-DQBMAULXX8",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 224,
+      "video_id": "gvfLq4sPW4k",
+      "title": "[TA 補充課] More about Domain Adaptation (1/2) (由助教趙崇皓同學講授)",
+      "url": "https://www.youtube.com/watch?v=gvfLq4sPW4k",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 225,
+      "video_id": "-C8RUrWb7F8",
+      "title": "[TA 補充課] More about Anomaly Detection (由助教林政豪同學講授)",
+      "url": "https://www.youtube.com/watch?v=-C8RUrWb7F8",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 226,
+      "video_id": "pHQ2lcDgoFs",
+      "title": "[DLHLP 2020] Deep Learning for Constituency Parsing",
+      "url": "https://www.youtube.com/watch?v=pHQ2lcDgoFs",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 227,
+      "video_id": "hTNE8iFXEMU",
+      "title": "[TA 補充課] SAGAN, BigGAN, SinGAN, GauGAN, GANILLA, NICE-GAN (由助教吳宗翰同學講授)",
+      "url": "https://www.youtube.com/watch?v=hTNE8iFXEMU",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 228,
+      "video_id": "2BemmceHKOU",
+      "title": "[DLHLP 2020] Deep Learning for Coreference Resolution",
+      "url": "https://www.youtube.com/watch?v=2BemmceHKOU",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 229,
+      "video_id": "WROBoprE0js",
+      "title": "[DLHLP 2020] Text Style Transfer and Unsupervised Summarization/Translation/Speech Recognition",
+      "url": "https://www.youtube.com/watch?v=WROBoprE0js",
+      "series": "Standalone Talks",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 230,
+      "video_id": "9CCn9uPfJ64",
+      "title": "[TA 補充課] Network Compression (1/2): Knowledge Distillation (由助教劉俊緯同學講授)",
+      "url": "https://www.youtube.com/watch?v=9CCn9uPfJ64",
+      "series": "[TA 補充課] Network Compression (1/2)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 231,
+      "video_id": "w6gdV2_PtsE",
+      "title": "[TA 補充課] Network Compression (2/2): Network Pruning (由助教劉俊緯同學講授)",
+      "url": "https://www.youtube.com/watch?v=w6gdV2_PtsE",
+      "series": "[TA 補充課] Network Compression (2/2)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 232,
+      "video_id": "jvyKmU4OM3c",
+      "title": "[DLHLP 2020] Non-Autoregressive Sequence Generation (由助教莊永松同學講授)",
+      "url": "https://www.youtube.com/watch?v=jvyKmU4OM3c",
+      "series": "Standalone Talks",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 233,
+      "video_id": "cW04Sb02lU4",
+      "title": "[ICLR 2020] Language Modeling for Lifelong Language Learning (Speaker: Fan-Keng Sun)",
+      "url": "https://www.youtube.com/watch?v=cW04Sb02lU4",
+      "series": "[ICLR 2020] Language Modeling for Lifelong Language Learning (Speaker",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 234,
+      "video_id": "lluMBz5AoOg",
+      "title": "[TA 補充課] Transformer and its variant (由助教紀伯翰同學講授)",
+      "url": "https://www.youtube.com/watch?v=lluMBz5AoOg",
+      "series": "Standalone Talks",
+      "topics": [
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 235,
+      "video_id": "Bywo7m6ySlk",
+      "title": "[DLHLP 2020] BERT and its family - ELMo, BERT, GPT, XLNet, MASS, BART, UniLM, ELECTRA, and more",
+      "url": "https://www.youtube.com/watch?v=Bywo7m6ySlk",
+      "series": "[DLHLP 2020] BERT and its family",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 236,
+      "video_id": "qf0j0A0-SVM",
+      "title": "[ICASSP 2020] TRAINING CODE-SWITCHING LANGUAGE MODEL WITH MONOLINGUAL DATA (Speaker: Shun-Po Chuang)",
+      "url": "https://www.youtube.com/watch?v=qf0j0A0-SVM",
+      "series": "[ICASSP 2020] TRAINING CODE-SWITCHING LANGUAGE MODEL WITH MONOLINGUAL DATA (Speaker",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 237,
+      "video_id": "RUhkc6ihyYI",
+      "title": "[ICASSP 2020] INTERRUPTED AND CASCADED PIT FOR SPEECH SEPARATION (Speaker: Gene-Ping Yang)",
+      "url": "https://www.youtube.com/watch?v=RUhkc6ihyYI",
+      "series": "[ICASSP 2020] INTERRUPTED AND CASCADED PIT FOR SPEECH SEPARATION (Speaker",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 238,
+      "video_id": "1j46kdawA4Q",
+      "title": "[ICASSP 2020] ASR WITH WORD EMBEDDING REGULARIZATION AND FUSED DECODING (Speaker: Alexander H. Liu)",
+      "url": "https://www.youtube.com/watch?v=1j46kdawA4Q",
+      "series": "[ICASSP 2020] ASR WITH WORD EMBEDDING REGULARIZATION AND FUSED DECODING (Speaker",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 239,
+      "video_id": "sKwz5GvxGgI",
+      "title": "[ICASSP 2020] Defense against adversarial attacks on spoofing countermeasures (Speaker: Haibin Wu)",
+      "url": "https://www.youtube.com/watch?v=sKwz5GvxGgI",
+      "series": "[ICASSP 2020] Defense against adversarial attacks on spoofing countermeasures (Speaker",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 240,
+      "video_id": "JlOSyRNFjOw",
+      "title": "[ICASSP 2020] MOCKINGJAY: UNSUPERVISED SPEECH REPRESENTATION LEARNING (Speaker: Andy T. Liu)",
+      "url": "https://www.youtube.com/watch?v=JlOSyRNFjOw",
+      "series": "[ICASSP 2020] MOCKINGJAY",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 241,
+      "video_id": "W3t8FHgV90M",
+      "title": "[ICASSP 2020] ONE-SHOT VOICE CONVERSION BY VECTOR QUANTIZATION (Speaker: Da-Yi Wu)",
+      "url": "https://www.youtube.com/watch?v=W3t8FHgV90M",
+      "series": "[ICASSP 2020] ONE-SHOT VOICE CONVERSION BY VECTOR QUANTIZATION (Speaker",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 242,
+      "video_id": "6gtn7H-pWr8",
+      "title": "[ICASSP 2020] WHAT DOES A NETWORK LAYER HEAR? (Speaker: Chung-Yi Li)",
+      "url": "https://www.youtube.com/watch?v=6gtn7H-pWr8",
+      "series": "[ICASSP 2020] WHAT DOES A NETWORK LAYER HEAR? (Speaker",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 243,
+      "video_id": "goav0eXKPwg",
+      "title": "[ICASSP 2020] META LEARNING FOR END-TO-END LOW-RESOURCE SPEECH RECOGNITION (Speaker: Jui-Yang Hsu)",
+      "url": "https://www.youtube.com/watch?v=goav0eXKPwg",
+      "series": "[ICASSP 2020] META LEARNING FOR END-TO-END LOW-RESOURCE SPEECH RECOGNITION (Speaker",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 244,
+      "video_id": "cnZdfLSqwiE",
+      "title": "[ICASSP 2020] TOWARDS UNSUPERVISED SPEECH RECOGNITION AND SYNTHESIS (Speaker: Tao Tu)",
+      "url": "https://www.youtube.com/watch?v=cnZdfLSqwiE",
+      "series": "[ICASSP 2020] TOWARDS UNSUPERVISED SPEECH RECOGNITION AND SYNTHESIS (Speaker",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 245,
+      "video_id": "1_gRK9EIQpc",
+      "title": "[DLHLP 2020] BERT and its family - Introduction and Fine-tune",
+      "url": "https://www.youtube.com/watch?v=1_gRK9EIQpc",
+      "series": "[DLHLP 2020] BERT and its family",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 246,
+      "video_id": "tFBrqPPxWzE",
+      "title": "[DLHLP 2020] Overview of NLP Tasks",
+      "url": "https://www.youtube.com/watch?v=tFBrqPPxWzE",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 247,
+      "video_id": "6g2aPc0ol2Y",
+      "title": "[DLHLP 2020] Vocoder (由助教許博竣同學講授)",
+      "url": "https://www.youtube.com/watch?v=6g2aPc0ol2Y",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 248,
+      "video_id": "tfpKIZIWidA",
+      "title": "[TA 補充課] More about Adversarial Attack (1/2) (由助教黃冠博同學講授)",
+      "url": "https://www.youtube.com/watch?v=tfpKIZIWidA",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 249,
+      "video_id": "PaHhMlxFPyU",
+      "title": "[TA 補充課] More about Adversarial Attack (2/2) (由助教黃冠博同學講授)",
+      "url": "https://www.youtube.com/watch?v=PaHhMlxFPyU",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 250,
+      "video_id": "Eau1Fr2x86Y",
+      "title": "[DLHLP 2020] Speech Synthesis (2/2) - More than Tacotron",
+      "url": "https://www.youtube.com/watch?v=Eau1Fr2x86Y",
+      "series": "[DLHLP 2020] Speech Synthesis (2/2)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 251,
+      "video_id": "LsdiOt0wiWM",
+      "title": "[TA 補充課] More about Explainable AI (由助教楊書文同學講授)",
+      "url": "https://www.youtube.com/watch?v=LsdiOt0wiWM",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 252,
+      "video_id": "z3yvxvyP-lE",
+      "title": "[DLHLP 2020] Speaker Verification",
+      "url": "https://www.youtube.com/watch?v=z3yvxvyP-lE",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 253,
+      "video_id": "G0O1A7lONSY",
+      "title": "[DLHLP 2020] Speech Separation (2/2) - TasNet",
+      "url": "https://www.youtube.com/watch?v=G0O1A7lONSY",
+      "series": "[DLHLP 2020] Speech Separation (2/2)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 254,
+      "video_id": "DMxKeHW8KdM",
+      "title": "[DLHLP 2020] Speech Synthesis (1/2) - Tacotron",
+      "url": "https://www.youtube.com/watch?v=DMxKeHW8KdM",
+      "series": "[DLHLP 2020] Speech Synthesis (1/2)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 255,
+      "video_id": "e03YKGHXnL8",
+      "title": "[TA 補充課] Optimization for Deep Learning (2/2) (由助教簡仲明同學講授)",
+      "url": "https://www.youtube.com/watch?v=e03YKGHXnL8",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 256,
+      "video_id": "4pUmZ8hXlHM",
+      "title": "[TA 補充課] Optimization for Deep Learning (1/2) (由助教簡仲明同學講授)",
+      "url": "https://www.youtube.com/watch?v=4pUmZ8hXlHM",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 257,
+      "video_id": "kQeezFrNoOg",
+      "title": "PyTorch Tutorial (由助教劉記良同學講授)",
+      "url": "https://www.youtube.com/watch?v=kQeezFrNoOg",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 258,
+      "video_id": "tovg5ZxNgIo",
+      "title": "[DLHLP 2020] Speech Separation (1/2) - Deep Clustering, PIT",
+      "url": "https://www.youtube.com/watch?v=tovg5ZxNgIo",
+      "series": "[DLHLP 2020] Speech Separation (1/2)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 259,
+      "video_id": "JUWVuF2ucTk",
+      "title": "[DLHLP 2020] Voice Conversion (2/2) - CycleGAN and StarGAN",
+      "url": "https://www.youtube.com/watch?v=JUWVuF2ucTk",
+      "series": "[DLHLP 2020] Voice Conversion (2/2)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 260,
+      "video_id": "M9ht8vsVEw8",
+      "title": "[TA 補充課] Graph Neural Network (2/2) (由助教姜成翰同學講授)",
+      "url": "https://www.youtube.com/watch?v=M9ht8vsVEw8",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 261,
+      "video_id": "eybCCtNKwzA",
+      "title": "[TA 補充課] Graph Neural Network (1/2) (由助教姜成翰同學講授)",
+      "url": "https://www.youtube.com/watch?v=eybCCtNKwzA",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 262,
+      "video_id": "Jj6blc8UijY",
+      "title": "[DLHLP 2020] Voice Conversion (1/2) - Feature Disentangle",
+      "url": "https://www.youtube.com/watch?v=Jj6blc8UijY",
+      "series": "[DLHLP 2020] Voice Conversion (1/2)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 263,
+      "video_id": "dymfkWtVUdo",
+      "title": "[DLHLP 2020] Speech Recognition (7/7) - Language Modeling",
+      "url": "https://www.youtube.com/watch?v=dymfkWtVUdo",
+      "series": "[DLHLP 2020] Speech Recognition (7/7)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 264,
+      "video_id": "L519dCHUCog",
+      "title": "[DLHLP 2020] Speech Recognition (6/7) - RNN-T Training  (optional)",
+      "url": "https://www.youtube.com/watch?v=L519dCHUCog",
+      "series": "[DLHLP 2020] Speech Recognition (6/7)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 265,
+      "video_id": "5SSVra6IJY4",
+      "title": "[DLHLP 2020] Speech Recognition (5/7) - Alignment of HMM, CTC and RNN-T (optional)",
+      "url": "https://www.youtube.com/watch?v=5SSVra6IJY4",
+      "series": "[DLHLP 2020] Speech Recognition (5/7)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 266,
+      "video_id": "XWTGY_PNABo",
+      "title": "[DLHLP 2020] Speech Recognition (4/7) - HMM (optional)",
+      "url": "https://www.youtube.com/watch?v=XWTGY_PNABo",
+      "series": "[DLHLP 2020] Speech Recognition (4/7)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 267,
+      "video_id": "CGuLuBaLIeI",
+      "title": "[DLHLP 2020] Speech Recognition (3/7) - CTC, RNN-T and more",
+      "url": "https://www.youtube.com/watch?v=CGuLuBaLIeI",
+      "series": "[DLHLP 2020] Speech Recognition (3/7)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 268,
+      "video_id": "BdUeBa6NbXA",
+      "title": "[DLHLP 2020] Speech Recognition (2/7) - Listen, Attend, Spell",
+      "url": "https://www.youtube.com/watch?v=BdUeBa6NbXA",
+      "series": "[DLHLP 2020] Speech Recognition (2/7)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 269,
+      "video_id": "nER51ZyJaCQ",
+      "title": "[DLHLP 2020] Deep Learning for Human Language Processing (Course Overview)",
+      "url": "https://www.youtube.com/watch?v=nER51ZyJaCQ",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 270,
+      "video_id": "AIKu43goh-8",
+      "title": "[DLHLP 2020] Speech Recognition (1/7) - Overview",
+      "url": "https://www.youtube.com/watch?v=AIKu43goh-8",
+      "series": "[DLHLP 2020] Speech Recognition (1/7)",
+      "topics": [
+        "speech-and-audio"
+      ]
+    },
+    {
+      "playlist_position": 271,
+      "video_id": "c9TwBeWAj_U",
+      "title": "Machine Learning (2020): Course Introduction",
+      "url": "https://www.youtube.com/watch?v=c9TwBeWAj_U",
+      "series": "Machine Learning (2020)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 272,
+      "video_id": "uXY18nzdSsM",
+      "title": "Flow-based  Generative Model",
+      "url": "https://www.youtube.com/watch?v=uXY18nzdSsM",
+      "series": "Standalone Talks",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 273,
+      "video_id": "UYPa347-DdE",
+      "title": "ELMO, BERT, GPT",
+      "url": "https://www.youtube.com/watch?v=UYPa347-DdE",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 274,
+      "video_id": "ePimv_k-H24",
+      "title": "Meta Learning - Train+Test as RNN",
+      "url": "https://www.youtube.com/watch?v=ePimv_k-H24",
+      "series": "Meta Learning",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 275,
+      "video_id": "ugWDIIOHtPA",
+      "title": "Transformer",
+      "url": "https://www.youtube.com/watch?v=ugWDIIOHtPA",
+      "series": "Standalone Talks",
+      "topics": [
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 276,
+      "video_id": "ufcKFjdpT98",
+      "title": "GAN (Quick Review)",
+      "url": "https://www.youtube.com/watch?v=ufcKFjdpT98",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 277,
+      "video_id": "f0rOMyZSZi4",
+      "title": "Network Compression (6/6)",
+      "url": "https://www.youtube.com/watch?v=f0rOMyZSZi4",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 278,
+      "video_id": "L0TOXlNpCJ8",
+      "title": "Network Compression (5/6)",
+      "url": "https://www.youtube.com/watch?v=L0TOXlNpCJ8",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 279,
+      "video_id": "fMsNf0ufYnY",
+      "title": "Network Compression (4/6)",
+      "url": "https://www.youtube.com/watch?v=fMsNf0ufYnY",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 280,
+      "video_id": "mzZzn8fBvEs",
+      "title": "Network Compression (3/6)",
+      "url": "https://www.youtube.com/watch?v=mzZzn8fBvEs",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 281,
+      "video_id": "7B8Cx7woQk4",
+      "title": "Network Compression (2/6)",
+      "url": "https://www.youtube.com/watch?v=7B8Cx7woQk4",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 282,
+      "video_id": "dPp8rCAnU_A",
+      "title": "Network Compression (1/6)",
+      "url": "https://www.youtube.com/watch?v=dPp8rCAnU_A",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 283,
+      "video_id": "6ZWu4L7XOiQ",
+      "title": "More about Auto-encoder (1/4)",
+      "url": "https://www.youtube.com/watch?v=6ZWu4L7XOiQ",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 284,
+      "video_id": "DRLsw4CshqU",
+      "title": "More about Auto-encoder (4/4)",
+      "url": "https://www.youtube.com/watch?v=DRLsw4CshqU",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 285,
+      "video_id": "ZRyoCBCFMOs",
+      "title": "More about Auto-encoder (3/4)",
+      "url": "https://www.youtube.com/watch?v=ZRyoCBCFMOs",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 286,
+      "video_id": "hhsfEaVaeQU",
+      "title": "More about Auto-encoder (2/4)",
+      "url": "https://www.youtube.com/watch?v=hhsfEaVaeQU",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 287,
+      "video_id": "semSxPP2Yzg",
+      "title": "Meta Learning – Metric-based (3/3)",
+      "url": "https://www.youtube.com/watch?v=semSxPP2Yzg",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 288,
+      "video_id": "scK2EIT7klw",
+      "title": "Meta Learning – Metric-based (2/3)",
+      "url": "https://www.youtube.com/watch?v=scK2EIT7klw",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 289,
+      "video_id": "yyKaACh_j3M",
+      "title": "Meta Learning – Metric-based (1/3)",
+      "url": "https://www.youtube.com/watch?v=yyKaACh_j3M",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 290,
+      "video_id": "p0Tn8oZWZbQ",
+      "title": "Meta Learning - Gradient Descent as LSTM (3/3)",
+      "url": "https://www.youtube.com/watch?v=p0Tn8oZWZbQ",
+      "series": "Meta Learning",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 291,
+      "video_id": "G_xYYq772NQ",
+      "title": "Meta Learning - Gradient Descent as LSTM (2/3)",
+      "url": "https://www.youtube.com/watch?v=G_xYYq772NQ",
+      "series": "Meta Learning",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 292,
+      "video_id": "NjZygLDXxjg",
+      "title": "Meta Learning - Gradient Descent as LSTM (1/3)",
+      "url": "https://www.youtube.com/watch?v=NjZygLDXxjg",
+      "series": "Meta Learning",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 293,
+      "video_id": "9jJe2AD35P8",
+      "title": "Meta Learning – MAML (9/9)",
+      "url": "https://www.youtube.com/watch?v=9jJe2AD35P8",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 294,
+      "video_id": "mxqzGwP_Qys",
+      "title": "Meta Learning – MAML (7/9)",
+      "url": "https://www.youtube.com/watch?v=mxqzGwP_Qys",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 295,
+      "video_id": "3z997JhL9Oo",
+      "title": "Meta Learning – MAML (8/9)",
+      "url": "https://www.youtube.com/watch?v=3z997JhL9Oo",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 296,
+      "video_id": "dV-Crj8hsJM",
+      "title": "Meta Learning – MAML (6/9)",
+      "url": "https://www.youtube.com/watch?v=dV-Crj8hsJM",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 297,
+      "video_id": "vUwOA3SNb_E",
+      "title": "Meta Learning – MAML (5/9)",
+      "url": "https://www.youtube.com/watch?v=vUwOA3SNb_E",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 298,
+      "video_id": "knaAdp5uWRg",
+      "title": "Meta Learning – MAML (4/9)",
+      "url": "https://www.youtube.com/watch?v=knaAdp5uWRg",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 299,
+      "video_id": "PznN0w7dYc0",
+      "title": "Meta Learning – MAML (3/9)",
+      "url": "https://www.youtube.com/watch?v=PznN0w7dYc0",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 300,
+      "video_id": "9k4ND-xjcgM",
+      "title": "Meta Learning – MAML (2/9)",
+      "url": "https://www.youtube.com/watch?v=9k4ND-xjcgM",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 301,
+      "video_id": "EkAqYbpCYAc",
+      "title": "Meta Learning – MAML (1/9)",
+      "url": "https://www.youtube.com/watch?v=EkAqYbpCYAc",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 302,
+      "video_id": "8uo3kJ509hA",
+      "title": "Life Long Learning (3/7)",
+      "url": "https://www.youtube.com/watch?v=8uo3kJ509hA",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 303,
+      "video_id": "X7aWP6LngEs",
+      "title": "Life Long Learning (2/7)",
+      "url": "https://www.youtube.com/watch?v=X7aWP6LngEs",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 304,
+      "video_id": "UgLx4rjcCO8",
+      "title": "Life Long Learning (4/7)",
+      "url": "https://www.youtube.com/watch?v=UgLx4rjcCO8",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 305,
+      "video_id": "W37WANBMUTM",
+      "title": "Life Long Learning (5/7)",
+      "url": "https://www.youtube.com/watch?v=W37WANBMUTM",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 306,
+      "video_id": "D4aN7urRp3E",
+      "title": "Life Long Learning (6/7)",
+      "url": "https://www.youtube.com/watch?v=D4aN7urRp3E",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 307,
+      "video_id": "CubL463rhsQ",
+      "title": "Life Long Learning (7/7)",
+      "url": "https://www.youtube.com/watch?v=CubL463rhsQ",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 308,
+      "video_id": "7qT5P9KJnWo",
+      "title": "Life Long Learning (1/7)",
+      "url": "https://www.youtube.com/watch?v=7qT5P9KJnWo",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 309,
+      "video_id": "YIuBHB9Ejok",
+      "title": "Unsupervised Syntactic Parsing (ft. 莊永松同學)",
+      "url": "https://www.youtube.com/watch?v=YIuBHB9Ejok",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 310,
+      "video_id": "K1mWgthGS-A",
+      "title": "Explainable ML (6/8)",
+      "url": "https://www.youtube.com/watch?v=K1mWgthGS-A",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 311,
+      "video_id": "OjqIVSwly4k",
+      "title": "Explainable ML (7/8)",
+      "url": "https://www.youtube.com/watch?v=OjqIVSwly4k",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 312,
+      "video_id": "gotiBlOu18I",
+      "title": "Explainable ML (8/8)",
+      "url": "https://www.youtube.com/watch?v=gotiBlOu18I",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 313,
+      "video_id": "1xnhQbAV1m0",
+      "title": "Explainable ML (5/8)",
+      "url": "https://www.youtube.com/watch?v=1xnhQbAV1m0",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 314,
+      "video_id": "yORbWn7UsBs",
+      "title": "Explainable ML (4/8)",
+      "url": "https://www.youtube.com/watch?v=yORbWn7UsBs",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 315,
+      "video_id": "K6TpPWLc52c",
+      "title": "Explainable ML (3/8)",
+      "url": "https://www.youtube.com/watch?v=K6TpPWLc52c",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 316,
+      "video_id": "pNpk6DPYUh8",
+      "title": "Explainable ML (2/8)",
+      "url": "https://www.youtube.com/watch?v=pNpk6DPYUh8",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 317,
+      "video_id": "lnjrn3bF9lA",
+      "title": "Explainable ML (1/8)",
+      "url": "https://www.youtube.com/watch?v=lnjrn3bF9lA",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 318,
+      "video_id": "ah_Ttx6cIVU",
+      "title": "Attack ML Models (8/8)",
+      "url": "https://www.youtube.com/watch?v=ah_Ttx6cIVU",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 319,
+      "video_id": "KH48zq2RfBA",
+      "title": "Attack ML Models (7/8)",
+      "url": "https://www.youtube.com/watch?v=KH48zq2RfBA",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 320,
+      "video_id": "z2nmPDLEXI0",
+      "title": "Attack ML Models (6/8)",
+      "url": "https://www.youtube.com/watch?v=z2nmPDLEXI0",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 321,
+      "video_id": "2mgLPZJOHNk",
+      "title": "Attack ML Models (5/8)",
+      "url": "https://www.youtube.com/watch?v=2mgLPZJOHNk",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 322,
+      "video_id": "qjnMoWmn1FQ",
+      "title": "Attack ML Models (4/8)",
+      "url": "https://www.youtube.com/watch?v=qjnMoWmn1FQ",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 323,
+      "video_id": "F9N5zF7N0qY",
+      "title": "Attack ML Models (3/8)",
+      "url": "https://www.youtube.com/watch?v=F9N5zF7N0qY",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 324,
+      "video_id": "zOdg05BwE7I",
+      "title": "Attack ML Models (2/8)",
+      "url": "https://www.youtube.com/watch?v=zOdg05BwE7I",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 325,
+      "video_id": "NI6yb0WgMBM",
+      "title": "Attack ML Models (1/8)",
+      "url": "https://www.youtube.com/watch?v=NI6yb0WgMBM",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 326,
+      "video_id": "6W8FqUGYyDo",
+      "title": "Anomaly Detection (7/7)",
+      "url": "https://www.youtube.com/watch?v=6W8FqUGYyDo",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 327,
+      "video_id": "LmFWzmn2rFY",
+      "title": "Anomaly Detection (6/7)",
+      "url": "https://www.youtube.com/watch?v=LmFWzmn2rFY",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 328,
+      "video_id": "Fh1xFBktRLQ",
+      "title": "Anomaly Detection (5/7)",
+      "url": "https://www.youtube.com/watch?v=Fh1xFBktRLQ",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 329,
+      "video_id": "XwkHOUPbc0Q",
+      "title": "Anomaly Detection (4/7)",
+      "url": "https://www.youtube.com/watch?v=XwkHOUPbc0Q",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 330,
+      "video_id": "ueDlm2FkCnw",
+      "title": "Anomaly Detection (3/7)",
+      "url": "https://www.youtube.com/watch?v=ueDlm2FkCnw",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 331,
+      "video_id": "cYrNjLxkoXs",
+      "title": "Anomaly Detection (2/7)",
+      "url": "https://www.youtube.com/watch?v=cYrNjLxkoXs",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 332,
+      "video_id": "gDp2LXGnVLQ",
+      "title": "Anomaly Detection (1/7)",
+      "url": "https://www.youtube.com/watch?v=gDp2LXGnVLQ",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 333,
+      "video_id": "XnyM3-xtxHs",
+      "title": "The Next Step for Machine Learning",
+      "url": "https://www.youtube.com/watch?v=XnyM3-xtxHs",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 334,
+      "video_id": "7E7ZzTJFeng",
+      "title": "Linear Algebra Lecture 35: General Vectors (Part II)",
+      "url": "https://www.youtube.com/watch?v=7E7ZzTJFeng",
+      "series": "Linear Algebra Lecture 35",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 335,
+      "video_id": "o4dPfMkz_lw",
+      "title": "Linear Algebra Lecture 34: General Vectors (Part I)",
+      "url": "https://www.youtube.com/watch?v=o4dPfMkz_lw",
+      "series": "Linear Algebra Lecture 34",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 336,
+      "video_id": "OEJ0wxxLO7M",
+      "title": "Linear Algebra Lecture 36: Singular Value Decomposition",
+      "url": "https://www.youtube.com/watch?v=OEJ0wxxLO7M",
+      "series": "Linear Algebra Lecture 36",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 337,
+      "video_id": "0ijUQ-RfN3I",
+      "title": "Linear Algebra Lecture 33: Symmetric Matrix",
+      "url": "https://www.youtube.com/watch?v=0ijUQ-RfN3I",
+      "series": "Linear Algebra Lecture 33",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 338,
+      "video_id": "TmDYxL7HV68",
+      "title": "Linear Algebra Lecture 32: Orthogonal Matrix",
+      "url": "https://www.youtube.com/watch?v=TmDYxL7HV68",
+      "series": "Linear Algebra Lecture 32",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 339,
+      "video_id": "PzqVLldlHTE",
+      "title": "Linear Algebra Lecture 31: Gram-Schmidt Process",
+      "url": "https://www.youtube.com/watch?v=PzqVLldlHTE",
+      "series": "Linear Algebra Lecture 31",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 340,
+      "video_id": "98-0Q1ed3sM",
+      "title": "Linear Algebra Lecture 31: Orthogonal Basis",
+      "url": "https://www.youtube.com/watch?v=98-0Q1ed3sM",
+      "series": "Linear Algebra Lecture 31",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 341,
+      "video_id": "hxI7stenqaw",
+      "title": "Linear Algebra Lecture 29: Orthogonality",
+      "url": "https://www.youtube.com/watch?v=hxI7stenqaw",
+      "series": "Linear Algebra Lecture 29",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 342,
+      "video_id": "6WJikUaKKNo",
+      "title": "Linear Algebra Lecture 30: Orthogonal Projection",
+      "url": "https://www.youtube.com/watch?v=6WJikUaKKNo",
+      "series": "Linear Algebra Lecture 30",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 343,
+      "video_id": "pSg9TG_U_fY",
+      "title": "Linear Algebra Lecture 28: PageRank",
+      "url": "https://www.youtube.com/watch?v=pSg9TG_U_fY",
+      "series": "Linear Algebra Lecture 28",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 344,
+      "video_id": "L7Y8wB3xzEc",
+      "title": "Linear Algebra Lecture 27: Diagonalization for Linear Transformation",
+      "url": "https://www.youtube.com/watch?v=L7Y8wB3xzEc",
+      "series": "Linear Algebra Lecture 27",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 345,
+      "video_id": "TsB5_BiMFoo",
+      "title": "Linear Algebra Lecture 26: Diagonalization",
+      "url": "https://www.youtube.com/watch?v=TsB5_BiMFoo",
+      "series": "Linear Algebra Lecture 26",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 346,
+      "video_id": "1RyHRIP8QGg",
+      "title": "Linear Algebra Lecture 25: Eigenvalues and Eigenvectors",
+      "url": "https://www.youtube.com/watch?v=1RyHRIP8QGg",
+      "series": "Linear Algebra Lecture 25",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 347,
+      "video_id": "005nG8ZZVDE",
+      "title": "Linear Algebra Lecture 24: Properties of Determinant",
+      "url": "https://www.youtube.com/watch?v=005nG8ZZVDE",
+      "series": "Linear Algebra Lecture 24",
+      "topics": [
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 348,
+      "video_id": "7fXtSUrKND0",
+      "title": "Linear Algebra Lecture 23: Formulas of Determinant",
+      "url": "https://www.youtube.com/watch?v=7fXtSUrKND0",
+      "series": "Linear Algebra Lecture 23",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 349,
+      "video_id": "IrAdVhE6VqI",
+      "title": "Linear Algebra Lecture 22: Linear Function in Coordinate System",
+      "url": "https://www.youtube.com/watch?v=IrAdVhE6VqI",
+      "series": "Linear Algebra Lecture 22",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 350,
+      "video_id": "im3kTm9jGEM",
+      "title": "Linear Algebra Lecture 21: Coordinate System",
+      "url": "https://www.youtube.com/watch?v=im3kTm9jGEM",
+      "series": "Linear Algebra Lecture 21",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 351,
+      "video_id": "GB48DyvC14o",
+      "title": "Linear Algebra Lecture 19: Basis",
+      "url": "https://www.youtube.com/watch?v=GB48DyvC14o",
+      "series": "Linear Algebra Lecture 19",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 352,
+      "video_id": "aW0JVmpIxas",
+      "title": "Linear Algebra Lecture 20: Column Space, Null Space, Row Space",
+      "url": "https://www.youtube.com/watch?v=aW0JVmpIxas",
+      "series": "Linear Algebra Lecture 20",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 353,
+      "video_id": "pXtXnY2b2-E",
+      "title": "Linear Algebra Lecture 18: Subspace",
+      "url": "https://www.youtube.com/watch?v=pXtXnY2b2-E",
+      "series": "Linear Algebra Lecture 18",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 354,
+      "video_id": "d43mGvCnuBU",
+      "title": "Linear Algebra Lecture 16: Invertible",
+      "url": "https://www.youtube.com/watch?v=d43mGvCnuBU",
+      "series": "Linear Algebra Lecture 16",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 355,
+      "video_id": "vV2ff0xFPbw",
+      "title": "Linear Algebra Lecture 17: How to find the Inverse of a Matrix",
+      "url": "https://www.youtube.com/watch?v=vV2ff0xFPbw",
+      "series": "Linear Algebra Lecture 17",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 356,
+      "video_id": "fOK-bLERPUM",
+      "title": "Linear Algebra Lecture 15: Inverse of Matrix",
+      "url": "https://www.youtube.com/watch?v=fOK-bLERPUM",
+      "series": "Linear Algebra Lecture 15",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 357,
+      "video_id": "mSMh27SxKbM",
+      "title": "Linear Algebra Lecture 13: What can we know from RREF? (part 4)",
+      "url": "https://www.youtube.com/watch?v=mSMh27SxKbM",
+      "series": "Linear Algebra Lecture 13",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 358,
+      "video_id": "UaBRpTMX98c",
+      "title": "Linear Algebra Lecture 12: What can we know from RREF? (part 3)",
+      "url": "https://www.youtube.com/watch?v=UaBRpTMX98c",
+      "series": "Linear Algebra Lecture 12",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 359,
+      "video_id": "G-afSDZgEVI",
+      "title": "Linear Algebra Lecture 11: What can we know from RREF? (part 2)",
+      "url": "https://www.youtube.com/watch?v=G-afSDZgEVI",
+      "series": "Linear Algebra Lecture 11",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 360,
+      "video_id": "ObibwhRY8xc",
+      "title": "Linear Algebra Lecture 10: What can we know from RREF? (part 1)",
+      "url": "https://www.youtube.com/watch?v=ObibwhRY8xc",
+      "series": "Linear Algebra Lecture 10",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 361,
+      "video_id": "yO8lDzf4jMs",
+      "title": "Linear Algebra Lecture 14: Matrix Multiplication",
+      "url": "https://www.youtube.com/watch?v=yO8lDzf4jMs",
+      "series": "Linear Algebra Lecture 14",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 362,
+      "video_id": "YzAg9l9FO7Y",
+      "title": "Linear Algebra Lecture 9: Solving System of Linear Equations (part 2)",
+      "url": "https://www.youtube.com/watch?v=YzAg9l9FO7Y",
+      "series": "Linear Algebra Lecture 9",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 363,
+      "video_id": "zuTH1WdREkY",
+      "title": "Linear Algebra Lecture 8: Solving System of Linear Equations (part 1)",
+      "url": "https://www.youtube.com/watch?v=zuTH1WdREkY",
+      "series": "Linear Algebra Lecture 8",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 364,
+      "video_id": "34HlThINCsc",
+      "title": "Linear Algebra Lecture 7: How many solutions?",
+      "url": "https://www.youtube.com/watch?v=34HlThINCsc",
+      "series": "Linear Algebra Lecture 7",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 365,
+      "video_id": "-E67rZSjTNI",
+      "title": "Linear Algebra Lecture 6: Having Solution or Not",
+      "url": "https://www.youtube.com/watch?v=-E67rZSjTNI",
+      "series": "Linear Algebra Lecture 6",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 366,
+      "video_id": "K2zzvo28X0g",
+      "title": "Linear Algebra Lecture 5: Matrix-vector Product",
+      "url": "https://www.youtube.com/watch?v=K2zzvo28X0g",
+      "series": "Linear Algebra Lecture 5",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 367,
+      "video_id": "FInagysEI0o",
+      "title": "Linear Algebra Lecture 4: Matrix",
+      "url": "https://www.youtube.com/watch?v=FInagysEI0o",
+      "series": "Linear Algebra Lecture 4",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 368,
+      "video_id": "tpNFMU7KsEU",
+      "title": "Linear Algebra Lecture 3: Vector",
+      "url": "https://www.youtube.com/watch?v=tpNFMU7KsEU",
+      "series": "Linear Algebra Lecture 3",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 369,
+      "video_id": "ZexDYHpmID8",
+      "title": "Linear Algebra Lecture 2: System of Linear Equations",
+      "url": "https://www.youtube.com/watch?v=ZexDYHpmID8",
+      "series": "Linear Algebra Lecture 2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 370,
+      "video_id": "uUrt8xgdMbs",
+      "title": "Linear Algebra Lecture 1: What are we going to learn?",
+      "url": "https://www.youtube.com/watch?v=uUrt8xgdMbs",
+      "series": "Linear Algebra Lecture 1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 371,
+      "video_id": "oITx1yP2hxE",
+      "title": "HW2 (presented by 張家銘, 張承洋, 張景程)",
+      "url": "https://www.youtube.com/watch?v=oITx1yP2hxE",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 372,
+      "video_id": "Rd63BhmLr-M",
+      "title": "HW3 (presented by 許秉鈞, 蔡丞昊, 楊正彥)",
+      "url": "https://www.youtube.com/watch?v=Rd63BhmLr-M",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 373,
+      "video_id": "N5wfwAnVZlk",
+      "title": "HW4 (presented by 許秉鈞, 蔡丞昊, 楊正彥)",
+      "url": "https://www.youtube.com/watch?v=N5wfwAnVZlk",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 374,
+      "video_id": "Q3xi_stxlUY",
+      "title": "HW4 (presented by 王行健, 謝議霆)",
+      "url": "https://www.youtube.com/watch?v=Q3xi_stxlUY",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 375,
+      "video_id": "n6rcXu9R23s",
+      "title": "HW2 (presented by 卓伯鴻, 陳景由)",
+      "url": "https://www.youtube.com/watch?v=n6rcXu9R23s",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 376,
+      "video_id": "R0LP4HelkIc",
+      "title": "HW3 (presented by 康家瑋, 曾彥青, 林俊樑)",
+      "url": "https://www.youtube.com/watch?v=R0LP4HelkIc",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 377,
+      "video_id": "fs7fNqEqwnE",
+      "title": "HW4 (presented by 林宗穎, 林益璟, 陳唯之)",
+      "url": "https://www.youtube.com/watch?v=fs7fNqEqwnE",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 378,
+      "video_id": "It7qtXah9YU",
+      "title": "HW2 (presented by 毛弘仁, 王克安, 林哲賢)",
+      "url": "https://www.youtube.com/watch?v=It7qtXah9YU",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 379,
+      "video_id": "TR937eL1WLc",
+      "title": "HW3 (presented by 謝宏祺, 朱柏澄, 蔡昀達)",
+      "url": "https://www.youtube.com/watch?v=TR937eL1WLc",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 380,
+      "video_id": "Lobg0qVR-y0",
+      "title": "HW1 (presented by 劉俊緯, 吳宗翰)",
+      "url": "https://www.youtube.com/watch?v=Lobg0qVR-y0",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 381,
+      "video_id": "95hyyAMJieU",
+      "title": "HW1 (presented by 毛弘仁, 王克安, 林哲賢)",
+      "url": "https://www.youtube.com/watch?v=95hyyAMJieU",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 382,
+      "video_id": "LGAMeOgAwU4",
+      "title": "HW1 (presented by 黃文璁,蔡昕宇,許傑盛)",
+      "url": "https://www.youtube.com/watch?v=LGAMeOgAwU4",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 383,
+      "video_id": "j82QLgfhFiY",
+      "title": "DRL Lecture 6: Actor-Critic",
+      "url": "https://www.youtube.com/watch?v=j82QLgfhFiY",
+      "series": "DRL Lecture 6",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 384,
+      "video_id": "-5cCWhu0OaM",
+      "title": "DRL Lecture 7: Sparse Reward",
+      "url": "https://www.youtube.com/watch?v=-5cCWhu0OaM",
+      "series": "DRL Lecture 7",
+      "topics": [
+        "evaluation-and-benchmarks"
+      ]
+    },
+    {
+      "playlist_position": 385,
+      "video_id": "tnPVcec22cg",
+      "title": "DRL Lecture 5: Q-learning (Continuous Action)",
+      "url": "https://www.youtube.com/watch?v=tnPVcec22cg",
+      "series": "DRL Lecture 5",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 386,
+      "video_id": "rl_ozvqQUU8",
+      "title": "DRL Lecture 8: Imitation Learning",
+      "url": "https://www.youtube.com/watch?v=rl_ozvqQUU8",
+      "series": "DRL Lecture 8",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 387,
+      "video_id": "OAKAZhFmYoI",
+      "title": "DRL Lecture 2:  Proximal Policy Optimization (PPO)",
+      "url": "https://www.youtube.com/watch?v=OAKAZhFmYoI",
+      "series": "DRL Lecture 2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 388,
+      "video_id": "z95ZYgPgXOY",
+      "title": "DRL Lecture 1: Policy Gradient (Review)",
+      "url": "https://www.youtube.com/watch?v=z95ZYgPgXOY",
+      "series": "DRL Lecture 1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 389,
+      "video_id": "o_g9JUMw1Oc",
+      "title": "DRL Lecture 3: Q-learning (Basic Idea)",
+      "url": "https://www.youtube.com/watch?v=o_g9JUMw1Oc",
+      "series": "DRL Lecture 3",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 390,
+      "video_id": "2-zGCx4iv_k",
+      "title": "DRL Lecture 4: Q-learning (Advanced Tips)",
+      "url": "https://www.youtube.com/watch?v=2-zGCx4iv_k",
+      "series": "DRL Lecture 4",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 391,
+      "video_id": "IB_ADssBomk",
+      "title": "GAN Lecture 10 (2018): Evaluation & Concluding Remarks",
+      "url": "https://www.youtube.com/watch?v=IB_ADssBomk",
+      "series": "GAN Lecture 10 (2018)",
+      "topics": [
+        "evaluation-and-benchmarks"
+      ]
+    },
+    {
+      "playlist_position": 392,
+      "video_id": "Lhs_Kphd0jg",
+      "title": "GAN Lecture 8 (2018): Photo Editing",
+      "url": "https://www.youtube.com/watch?v=Lhs_Kphd0jg",
+      "series": "GAN Lecture 8 (2018)",
+      "topics": [
+        "model-editing-and-merging"
+      ]
+    },
+    {
+      "playlist_position": 393,
+      "video_id": "Xb1x4ZgV6iM",
+      "title": "GAN Lecture 9 (2018): Sequence Generation",
+      "url": "https://www.youtube.com/watch?v=Xb1x4ZgV6iM",
+      "series": "GAN Lecture 9 (2018)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 394,
+      "video_id": "3JP-xuBJsyc",
+      "title": "GAN Lecture 6 (2018): WGAN, EBGAN",
+      "url": "https://www.youtube.com/watch?v=3JP-xuBJsyc",
+      "series": "GAN Lecture 6 (2018)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 395,
+      "video_id": "-3LgL3NXLtI",
+      "title": "GAN Lecture 3 (2018): Unsupervised Conditional Generation",
+      "url": "https://www.youtube.com/watch?v=-3LgL3NXLtI",
+      "series": "GAN Lecture 3 (2018)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 396,
+      "video_id": "sU5CG8Z0zgw",
+      "title": "GAN Lecture 7 (2018): Info GAN, VAE-GAN, BiGAN",
+      "url": "https://www.youtube.com/watch?v=sU5CG8Z0zgw",
+      "series": "GAN Lecture 7 (2018)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 397,
+      "video_id": "DQNNMiAP5lw",
+      "title": "GAN Lecture 1 (2018): Introduction",
+      "url": "https://www.youtube.com/watch?v=DQNNMiAP5lw",
+      "series": "GAN Lecture 1 (2018)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 398,
+      "video_id": "LpyL4nZSuqU",
+      "title": "GAN Lecture 2 (2018): Conditional Generation",
+      "url": "https://www.youtube.com/watch?v=LpyL4nZSuqU",
+      "series": "GAN Lecture 2 (2018)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 399,
+      "video_id": "av1bqilLsyQ",
+      "title": "GAN Lecture 5 (2018): General Framework",
+      "url": "https://www.youtube.com/watch?v=av1bqilLsyQ",
+      "series": "GAN Lecture 5 (2018)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 400,
+      "video_id": "DMA4MrNieWo",
+      "title": "GAN Lecture 4 (2018): Basic Theory",
+      "url": "https://www.youtube.com/watch?v=DMA4MrNieWo",
+      "series": "GAN Lecture 4 (2018)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 401,
+      "video_id": "pivB5jEBOQw",
+      "title": "Deep Learning Theory 3-2: Indicator of Generalization",
+      "url": "https://www.youtube.com/watch?v=pivB5jEBOQw",
+      "series": "Deep Learning Theory 3-2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 402,
+      "video_id": "9dtxv4HLq_8",
+      "title": "Deep Learning Theory 3-1: Generalization Capability of Deep Learning",
+      "url": "https://www.youtube.com/watch?v=9dtxv4HLq_8",
+      "series": "Deep Learning Theory 3-1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 403,
+      "video_id": "XysGHdNOTbg",
+      "title": "Deep Learning Theory 2-5: Geometry of Loss Surfaces (Empirical)",
+      "url": "https://www.youtube.com/watch?v=XysGHdNOTbg",
+      "series": "Deep Learning Theory 2-5",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 404,
+      "video_id": "0O6nYRC7GeY",
+      "title": "Deep Learning Theory 2-2: Deep Linear Network",
+      "url": "https://www.youtube.com/watch?v=0O6nYRC7GeY",
+      "series": "Deep Learning Theory 2-2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 405,
+      "video_id": "_VuWvQUMQVk",
+      "title": "Deep Learning Theory 2-4: Geometry of Loss Surfaces (Conjecture)",
+      "url": "https://www.youtube.com/watch?v=_VuWvQUMQVk",
+      "series": "Deep Learning Theory 2-4",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 406,
+      "video_id": "NmelPQkUark",
+      "title": "Deep Learning Theory 2-3: Does Deep Network have Local Minima?",
+      "url": "https://www.youtube.com/watch?v=NmelPQkUark",
+      "series": "Deep Learning Theory 2-3",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 407,
+      "video_id": "XSdkBG6Vvr0",
+      "title": "Deep Learning Theory 2-1: When Gradient is Zero",
+      "url": "https://www.youtube.com/watch?v=XSdkBG6Vvr0",
+      "series": "Deep Learning Theory 2-1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 408,
+      "video_id": "qpuLxXrHQB4",
+      "title": "Deep Learning Theory 1-3: Is Deep better than Shallow?",
+      "url": "https://www.youtube.com/watch?v=qpuLxXrHQB4",
+      "series": "Deep Learning Theory 1-3",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 409,
+      "video_id": "FN8jclCrqY0",
+      "title": "Deep Learning Theory 1-2: Potential of Deep",
+      "url": "https://www.youtube.com/watch?v=FN8jclCrqY0",
+      "series": "Deep Learning Theory 1-2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 410,
+      "video_id": "KKT2VkTdFyc",
+      "title": "Deep Learning Theory 1-1: Can shallow network fit any function?",
+      "url": "https://www.youtube.com/watch?v=KKT2VkTdFyc",
+      "series": "Deep Learning Theory 1-1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 411,
+      "video_id": "2-JNBzCq77c",
+      "title": "ML Lecture 23-3: Reinforcement Learning (including Q-learning)",
+      "url": "https://www.youtube.com/watch?v=2-JNBzCq77c",
+      "series": "ML Lecture 23-3",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 412,
+      "video_id": "y8UPGr36ccI",
+      "title": "ML Lecture 23-2: Policy Gradient (Supplementary Explanation)",
+      "url": "https://www.youtube.com/watch?v=y8UPGr36ccI",
+      "series": "ML Lecture 23-2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 413,
+      "video_id": "dFwesaqC_Wo",
+      "title": "GAN Lecture 4 (2017):  From A to Z",
+      "url": "https://www.youtube.com/watch?v=dFwesaqC_Wo",
+      "series": "GAN Lecture 4 (2017)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 414,
+      "video_id": "Adi54-wp8Qk",
+      "title": "GAN Lecture 3 (2017): Improving Sequence Generation by GAN",
+      "url": "https://www.youtube.com/watch?v=Adi54-wp8Qk",
+      "series": "GAN Lecture 3 (2017)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 415,
+      "video_id": "9N_uOIPghuo",
+      "title": "GAN Lecture 2 (2017): CycleGAN",
+      "url": "https://www.youtube.com/watch?v=9N_uOIPghuo",
+      "series": "GAN Lecture 2 (2017)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 416,
+      "video_id": "G0dZc-8yIjE",
+      "title": "GAN Lecture 1 (2017): Introduction of Generative Adversarial Network (GAN)",
+      "url": "https://www.youtube.com/watch?v=G0dZc-8yIjE",
+      "series": "GAN Lecture 1 (2017)",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 417,
+      "video_id": "1WPjVpwJ88I",
+      "title": "SELU",
+      "url": "https://www.youtube.com/watch?v=1WPjVpwJ88I",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 418,
+      "video_id": "kyX29rUntjM",
+      "title": "Tuning Hyperparameters",
+      "url": "https://www.youtube.com/watch?v=kyX29rUntjM",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 419,
+      "video_id": "1KElr75pHdQ",
+      "title": "Interesting things about deep learning",
+      "url": "https://www.youtube.com/watch?v=1KElr75pHdQ",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 420,
+      "video_id": "BZh1ltr5Rkg",
+      "title": "Batch Normalization",
+      "url": "https://www.youtube.com/watch?v=BZh1ltr5Rkg",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 421,
+      "video_id": "F1vek6ULo9w",
+      "title": "ML Lecture 9-3: Fizz Buzz in Tensorflow (sequel)",
+      "url": "https://www.youtube.com/watch?v=F1vek6ULo9w",
+      "series": "ML Lecture 9-3",
+      "topics": [
+        "diffusion-and-generation"
+      ]
+    },
+    {
+      "playlist_position": 422,
+      "video_id": "VdOyqNQ9aww",
+      "title": "Pointer Network",
+      "url": "https://www.youtube.com/watch?v=VdOyqNQ9aww",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 423,
+      "video_id": "tH9FH1DH5n0",
+      "title": "ML Lecture 22: Ensemble",
+      "url": "https://www.youtube.com/watch?v=tH9FH1DH5n0",
+      "series": "ML Lecture 22",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 424,
+      "video_id": "T8mGfIy9dWM",
+      "title": "Gated RNN and Sequence Generation (Recorded at Fall, 2017)",
+      "url": "https://www.youtube.com/watch?v=T8mGfIy9dWM",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 425,
+      "video_id": "Ky1ku1miDow",
+      "title": "ML Lecture 9-2: Keras Demo 2",
+      "url": "https://www.youtube.com/watch?v=Ky1ku1miDow",
+      "series": "ML Lecture 9-2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 426,
+      "video_id": "5BJDJd-dzzg",
+      "title": "ML Lecture 8-2: Keras 2.0",
+      "url": "https://www.youtube.com/watch?v=5BJDJd-dzzg",
+      "series": "ML Lecture 8-2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 427,
+      "video_id": "L8unuZNpWw8",
+      "title": "ML Lecture 8-3: Keras Demo",
+      "url": "https://www.youtube.com/watch?v=L8unuZNpWw8",
+      "series": "ML Lecture 8-3",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 428,
+      "video_id": "On1N8u1z2Ng",
+      "title": "ML Lecture 0-2: Why we need to learn machine learning?",
+      "url": "https://www.youtube.com/watch?v=On1N8u1z2Ng",
+      "series": "ML Lecture 0-2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 429,
+      "video_id": "CXgbekl66jc",
+      "title": "ML Lecture 0-1: Introduction of  Machine Learning",
+      "url": "https://www.youtube.com/watch?v=CXgbekl66jc",
+      "series": "ML Lecture 0-1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 430,
+      "video_id": "1UqCjFQiiy0",
+      "title": "ML Lecture 1: Regression - Demo",
+      "url": "https://www.youtube.com/watch?v=1UqCjFQiiy0",
+      "series": "ML Lecture 1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 431,
+      "video_id": "O79Ic8XBzvw",
+      "title": "A3C",
+      "url": "https://www.youtube.com/watch?v=O79Ic8XBzvw",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 432,
+      "video_id": "wzPAInDF_gI",
+      "title": "ML Lecture 3-3: Gradient Descent (Demo by Minecraft)",
+      "url": "https://www.youtube.com/watch?v=wzPAInDF_gI",
+      "series": "ML Lecture 3-3",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 433,
+      "video_id": "1_HBTJyWgNA",
+      "title": "ML Lecture 3-2: Gradient Descent (Demo by AOE)",
+      "url": "https://www.youtube.com/watch?v=1_HBTJyWgNA",
+      "series": "ML Lecture 3-2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 434,
+      "video_id": "gFaqKdcCdOE",
+      "title": "Energy-based GAN",
+      "url": "https://www.youtube.com/watch?v=gFaqKdcCdOE",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 435,
+      "video_id": "1DlTX9srmvE",
+      "title": "Ensemble of GAN",
+      "url": "https://www.youtube.com/watch?v=1DlTX9srmvE",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 436,
+      "video_id": "TN8cJiomk_k",
+      "title": "Video Generation by GAN",
+      "url": "https://www.youtube.com/watch?v=TN8cJiomk_k",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 437,
+      "video_id": "rOho-2oJFeA",
+      "title": "Imitation Learning",
+      "url": "https://www.youtube.com/watch?v=rOho-2oJFeA",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 438,
+      "video_id": "VNqOspvEKEI",
+      "title": "Evaluation of Generative Models",
+      "url": "https://www.youtube.com/watch?v=VNqOspvEKEI",
+      "series": "Standalone Talks",
+      "topics": [
+        "evaluation-and-benchmarks"
+      ]
+    },
+    {
+      "playlist_position": 439,
+      "video_id": "pbQ4qe8EwLo",
+      "title": "RL and GAN for Sentence Generation and Chat-bot",
+      "url": "https://www.youtube.com/watch?v=pbQ4qe8EwLo",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 440,
+      "video_id": "A5p1_ehUSVI",
+      "title": "機械学習で美少女化 ~  あるいはNEW GAME! の世界",
+      "url": "https://www.youtube.com/watch?v=A5p1_ehUSVI",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 441,
+      "video_id": "KSN4QYgAtao",
+      "title": "Improved Generative Adversarial Network",
+      "url": "https://www.youtube.com/watch?v=KSN4QYgAtao",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 442,
+      "video_id": "0CKeqXl5IY0",
+      "title": "Generative Adversarial Network",
+      "url": "https://www.youtube.com/watch?v=0CKeqXl5IY0",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 443,
+      "video_id": "z0uOq2wEGcc",
+      "title": "Recursive Network",
+      "url": "https://www.youtube.com/watch?v=z0uOq2wEGcc",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 444,
+      "video_id": "f1KUUz7v8g4",
+      "title": "Conditional Generation by RNN & Attention",
+      "url": "https://www.youtube.com/watch?v=f1KUUz7v8g4",
+      "series": "Standalone Talks",
+      "topics": [
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 445,
+      "video_id": "Lx3l4lOrquw",
+      "title": "ML Lecture 8-1: “Hello world” of deep learning",
+      "url": "https://www.youtube.com/watch?v=Lx3l4lOrquw",
+      "series": "ML Lecture 8-1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 446,
+      "video_id": "JKWqPO3d6kQ",
+      "title": "Review: Basic Structures for Deep Learning Models (Part II)",
+      "url": "https://www.youtube.com/watch?v=JKWqPO3d6kQ",
+      "series": "Review",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 447,
+      "video_id": "dxB6299gpvI",
+      "title": "Highway Network & Grid LSTM",
+      "url": "https://www.youtube.com/watch?v=dxB6299gpvI",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 448,
+      "video_id": "SoCywZ1hZak",
+      "title": "Spatial Transformer Layer",
+      "url": "https://www.youtube.com/watch?v=SoCywZ1hZak",
+      "series": "Standalone Talks",
+      "topics": [
+        "llm-and-transformers"
+      ]
+    },
+    {
+      "playlist_position": 449,
+      "video_id": "-yhm3WdGFok",
+      "title": "Computational Graph & Backpropagation",
+      "url": "https://www.youtube.com/watch?v=-yhm3WdGFok",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 450,
+      "video_id": "IzHoNwlCGnE",
+      "title": "Review: Basic Structures for Deep Learning Models (Part I)",
+      "url": "https://www.youtube.com/watch?v=IzHoNwlCGnE",
+      "series": "Review",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 451,
+      "video_id": "Jvigef51rqk",
+      "title": "Deep Learning for Language Modeling",
+      "url": "https://www.youtube.com/watch?v=Jvigef51rqk",
+      "series": "Standalone Talks",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 452,
+      "video_id": "hSXFuypLukA",
+      "title": "ML Lecture 5: Logistic Regression",
+      "url": "https://www.youtube.com/watch?v=hSXFuypLukA",
+      "series": "ML Lecture 5",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 453,
+      "video_id": "xCGidAeyS4M",
+      "title": "ML Lecture 21-1: Recurrent Neural Network (Part I)",
+      "url": "https://www.youtube.com/watch?v=xCGidAeyS4M",
+      "series": "ML Lecture 21-1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 454,
+      "video_id": "rTqmWlnwz_0",
+      "title": "ML Lecture 21-2: Recurrent Neural Network (Part II)",
+      "url": "https://www.youtube.com/watch?v=rTqmWlnwz_0",
+      "series": "ML Lecture 21-2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 455,
+      "video_id": "QsO2zyED7Lw",
+      "title": "ML Lecture 27: Ensemble (no \"pointer\" version)",
+      "url": "https://www.youtube.com/watch?v=QsO2zyED7Lw",
+      "series": "ML Lecture 27",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 456,
+      "video_id": "o9FPSqobMys",
+      "title": "Structured Learning 4: Sequence Labeling",
+      "url": "https://www.youtube.com/watch?v=o9FPSqobMys",
+      "series": "Structured Learning 4",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 457,
+      "video_id": "W8XF3ME8G2I",
+      "title": "ML Lecture 23-1: Deep Reinforcement Learning",
+      "url": "https://www.youtube.com/watch?v=W8XF3ME8G2I",
+      "series": "ML Lecture 23-1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 458,
+      "video_id": "YjvGVVrCrhQ",
+      "title": "Structured Learning 3: Structured SVM",
+      "url": "https://www.youtube.com/watch?v=YjvGVVrCrhQ",
+      "series": "Structured Learning 3",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 459,
+      "video_id": "HfPw40JPays",
+      "title": "Structured Learning 2: Linear Model",
+      "url": "https://www.youtube.com/watch?v=HfPw40JPays",
+      "series": "Structured Learning 2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 460,
+      "video_id": "5OYu0vxXEv8",
+      "title": "Structured Learning 1: Introduction",
+      "url": "https://www.youtube.com/watch?v=5OYu0vxXEv8",
+      "series": "Structured Learning 1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 461,
+      "video_id": "QSEPStBgwRQ",
+      "title": "ML Lecture 20: Support Vector Machine (SVM)",
+      "url": "https://www.youtube.com/watch?v=QSEPStBgwRQ",
+      "series": "ML Lecture 20",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 462,
+      "video_id": "qD6iD4TFsdQ",
+      "title": "ML Lecture 19: Transfer Learning",
+      "url": "https://www.youtube.com/watch?v=qD6iD4TFsdQ",
+      "series": "ML Lecture 19",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 463,
+      "video_id": "GBUEjkpoxXc",
+      "title": "ML Lecture 15: Unsupervised Learning - Neighbor Embedding",
+      "url": "https://www.youtube.com/watch?v=GBUEjkpoxXc",
+      "series": "ML Lecture 15",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 464,
+      "video_id": "8zomhgKrsmQ",
+      "title": "ML Lecture 18: Unsupervised Learning - Deep Generative Model (Part II)",
+      "url": "https://www.youtube.com/watch?v=8zomhgKrsmQ",
+      "series": "ML Lecture 18",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 465,
+      "video_id": "YNUek8ioAJk",
+      "title": "ML Lecture 17: Unsupervised Learning - Deep Generative Model (Part I)",
+      "url": "https://www.youtube.com/watch?v=YNUek8ioAJk",
+      "series": "ML Lecture 17",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 466,
+      "video_id": "X7PH3NuYW0Q",
+      "title": "ML Lecture 14: Unsupervised Learning - Word Embedding",
+      "url": "https://www.youtube.com/watch?v=X7PH3NuYW0Q",
+      "series": "ML Lecture 14",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 467,
+      "video_id": "Tk5B4seA-AU",
+      "title": "ML Lecture 16: Unsupervised Learning - Auto-encoder",
+      "url": "https://www.youtube.com/watch?v=Tk5B4seA-AU",
+      "series": "ML Lecture 16",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 468,
+      "video_id": "iwh5o_M4BNU",
+      "title": "ML Lecture 13: Unsupervised Learning - Linear Methods",
+      "url": "https://www.youtube.com/watch?v=iwh5o_M4BNU",
+      "series": "ML Lecture 13",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 469,
+      "video_id": "fX_guE7JNnY",
+      "title": "ML Lecture 12: Semi-supervised",
+      "url": "https://www.youtube.com/watch?v=fX_guE7JNnY",
+      "series": "ML Lecture 12",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 470,
+      "video_id": "XsC9byQkUH8",
+      "title": "ML Lecture 11: Why Deep?",
+      "url": "https://www.youtube.com/watch?v=XsC9byQkUH8",
+      "series": "ML Lecture 11",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 471,
+      "video_id": "FrKWiRv254g",
+      "title": "ML Lecture 10: Convolutional Neural Network",
+      "url": "https://www.youtube.com/watch?v=FrKWiRv254g",
+      "series": "ML Lecture 10",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 472,
+      "video_id": "xki61j7z-30",
+      "title": "ML Lecture 9-1: Tips for Training DNN",
+      "url": "https://www.youtube.com/watch?v=xki61j7z-30",
+      "series": "ML Lecture 9-1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 473,
+      "video_id": "ibJpTrp5mcE",
+      "title": "ML Lecture 7: Backpropagation",
+      "url": "https://www.youtube.com/watch?v=ibJpTrp5mcE",
+      "series": "ML Lecture 7",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 474,
+      "video_id": "fZAZUYEeIMg",
+      "title": "ML Lecture 4: Classification",
+      "url": "https://www.youtube.com/watch?v=fZAZUYEeIMg",
+      "series": "ML Lecture 4",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 475,
+      "video_id": "Dr-WRlEFefw",
+      "title": "ML Lecture 6: Brief Introduction of Deep Learning",
+      "url": "https://www.youtube.com/watch?v=Dr-WRlEFefw",
+      "series": "ML Lecture 6",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 476,
+      "video_id": "fegAeph9UaA",
+      "title": "ML Lecture 1: Regression - Case Study",
+      "url": "https://www.youtube.com/watch?v=fegAeph9UaA",
+      "series": "ML Lecture 1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 477,
+      "video_id": "yKKNr-QKz2Q",
+      "title": "ML Lecture 3-1: Gradient Descent",
+      "url": "https://www.youtube.com/watch?v=yKKNr-QKz2Q",
+      "series": "ML Lecture 3-1",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    },
+    {
+      "playlist_position": 478,
+      "video_id": "D_S6y0Jm6dQ",
+      "title": "ML Lecture 2: Where does the error come from?",
+      "url": "https://www.youtube.com/watch?v=D_S6y0Jm6dQ",
+      "series": "ML Lecture 2",
+      "topics": [
+        "ml-fundamentals"
+      ]
+    }
+  ]
+}

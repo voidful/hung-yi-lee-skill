@@ -1,0 +1,5 @@
+# [ICASSP 2020] META LEARNING FOR END-TO-END LOW-RESOURCE SPEECH RECOGNITION (Speaker
+
+Video count: `1`
+
+- [[ICASSP 2020] META LEARNING FOR END-TO-END LOW-RESOURCE SPEECH RECOGNITION (Speaker: Jui-Yang Hsu)](https://www.youtube.com/watch?v=goav0eXKPwg)

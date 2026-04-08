@@ -1,0 +1,624 @@
+{
+  "generated_at": "2026-04-08T08:47:58+00:00",
+  "videos": {
+    "Ll-wk8x3G_g": {
+      "title": "如何讓 Transformer 知道輸入 Token 的順序？Absolute、Relative、RoPE、到沒有 Positional Embedding",
+      "url": "https://www.youtube.com/watch?v=Ll-wk8x3G_g",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 2418,
+      "path": "raw/youtube/transcripts/Ll-wk8x3G_g.md",
+      "updated_at": "2026-04-08T08:44:58+00:00"
+    },
+    "fDQaadKysSA": {
+      "title": "加快語言模型生成速度 (2/2)：KV Cache",
+      "url": "https://www.youtube.com/watch?v=fDQaadKysSA",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 1124,
+      "path": "raw/youtube/transcripts/fDQaadKysSA.md",
+      "updated_at": "2026-04-08T08:44:59+00:00"
+    },
+    "vXb2QYOUzl4": {
+      "title": "加快語言模型生成速度 (1/2)：Flash Attention",
+      "url": "https://www.youtube.com/watch?v=vXb2QYOUzl4",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 1389,
+      "path": "raw/youtube/transcripts/vXb2QYOUzl4.md",
+      "updated_at": "2026-04-08T08:45:00+00:00"
+    },
+    "VqB8zMujdjM": {
+      "title": "AI Agent (3/3): AI Agent 對於工作帶來的衝擊 - 以學術研究為例",
+      "url": "https://www.youtube.com/watch?v=VqB8zMujdjM",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 764,
+      "path": "raw/youtube/transcripts/VqB8zMujdjM.md",
+      "updated_at": "2026-04-08T08:45:04+00:00"
+    },
+    "mmPmNezjCi0": {
+      "title": "AI Agent (2/3): AI Agent 之間可以有什麼樣的互動",
+      "url": "https://www.youtube.com/watch?v=mmPmNezjCi0",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 683,
+      "path": "raw/youtube/transcripts/mmPmNezjCi0.md",
+      "updated_at": "2026-04-08T08:45:05+00:00"
+    },
+    "urwDLyNa9FU": {
+      "title": "AI Agent (1/3)：核心技術 Context Engineering 基本概念解說",
+      "url": "https://www.youtube.com/watch?v=urwDLyNa9FU",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 1573,
+      "path": "raw/youtube/transcripts/urwDLyNa9FU.md",
+      "updated_at": "2026-04-08T08:45:07+00:00"
+    },
+    "2rcJdFuNbZQ": {
+      "title": "解剖小龍蝦 — 以 OpenClaw 為例介紹 AI Agent 的運作原理",
+      "url": "https://www.youtube.com/watch?v=2rcJdFuNbZQ",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 2338,
+      "path": "raw/youtube/transcripts/2rcJdFuNbZQ.md",
+      "updated_at": "2026-04-08T08:45:08+00:00"
+    },
+    "CbIPjrOj2Tc": {
+      "title": "【生成式人工智慧與機器學習導論2025】第 10 講：語音語言模型發展史 (本課程前段內容為歷史回顧，2025 年的技術從 1:42:00 開始)",
+      "url": "https://www.youtube.com/watch?v=CbIPjrOj2Tc",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 4459,
+      "path": "raw/youtube/transcripts/CbIPjrOj2Tc.md",
+      "updated_at": "2026-04-08T08:45:09+00:00"
+    },
+    "ccqCDD9LqCA": {
+      "title": "【生成式人工智慧與機器學習導論2025】第 9 講：影像和聲音上的生成策略 — Diffusion/Flow-matching 系列和接龍 (Autoregressive) 這兩條世界線的交會",
+      "url": "https://www.youtube.com/watch?v=ccqCDD9LqCA",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 3341,
+      "path": "raw/youtube/transcripts/ccqCDD9LqCA.md",
+      "updated_at": "2026-04-08T08:45:10+00:00"
+    },
+    "EnWz5XuOnIQ": {
+      "title": "【生成式人工智慧與機器學習導論2025】第 8 講：通用模型的終身學習 (Fine-tuning, Model Editing, Model Merging, Test-Time Training)",
+      "url": "https://www.youtube.com/watch?v=EnWz5XuOnIQ",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 3408,
+      "path": "raw/youtube/transcripts/EnWz5XuOnIQ.md",
+      "updated_at": "2026-04-08T08:45:11+00:00"
+    },
+    "YJoegm7kiUM": {
+      "title": "【生成式人工智慧與機器學習導論2025】第 7 講：大型語言模型的學習歷程",
+      "url": "https://www.youtube.com/watch?v=YJoegm7kiUM",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 3424,
+      "path": "raw/youtube/transcripts/YJoegm7kiUM.md",
+      "updated_at": "2026-04-08T08:45:14+00:00"
+    },
+    "mPWvAN4hzzY": {
+      "title": "【生成式人工智慧與機器學習導論2025】第 6 講：一堂課搞懂訓練類神經網路的各種訣竅",
+      "url": "https://www.youtube.com/watch?v=mPWvAN4hzzY",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 3669,
+      "path": "raw/youtube/transcripts/mPWvAN4hzzY.md",
+      "updated_at": "2026-04-08T08:45:17+00:00"
+    },
+    "Taj1eHmZyWw": {
+      "title": "【生成式人工智慧與機器學習導論2025】第 5 講：一堂課搞懂機器學習與深度學習的基本原理 (案例：老師什麼時候要下課)",
+      "url": "https://www.youtube.com/watch?v=Taj1eHmZyWw",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 3711,
+      "path": "raw/youtube/transcripts/Taj1eHmZyWw.md",
+      "updated_at": "2026-04-08T08:45:18+00:00"
+    },
+    "dWQVY_h0YXU": {
+      "title": "【生成式人工智慧與機器學習導論2025】第 4 講：評估生成式人工智慧能力時可能遇到的各種坑",
+      "url": "https://www.youtube.com/watch?v=dWQVY_h0YXU",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 3487,
+      "path": "raw/youtube/transcripts/dWQVY_h0YXU.md",
+      "updated_at": "2026-04-08T08:45:19+00:00"
+    },
+    "8iFvM7WUUs8": {
+      "title": "【生成式人工智慧與機器學習導論2025】第3講：解剖大型語言模型",
+      "url": "https://www.youtube.com/watch?v=8iFvM7WUUs8",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 3319,
+      "path": "raw/youtube/transcripts/8iFvM7WUUs8.md",
+      "updated_at": "2026-04-08T08:45:20+00:00"
+    },
+    "lVdajtNpaGI": {
+      "title": "【生成式人工智慧與機器學習導論2025】第 2 講：上下文工程 (Context Engineering) — AI Agent 背後的關鍵技術",
+      "url": "https://www.youtube.com/watch?v=lVdajtNpaGI",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 3168,
+      "path": "raw/youtube/transcripts/lVdajtNpaGI.md",
+      "updated_at": "2026-04-08T08:45:21+00:00"
+    },
+    "TigfpYPJk1s": {
+      "title": "【生成式人工智慧與機器學習導論2025】第１講：一堂課搞懂生成式人工智慧的原理",
+      "url": "https://www.youtube.com/watch?v=TigfpYPJk1s",
+      "status": "fetched",
+      "language": "zh",
+      "segment_count": 2388,
+      "path": "raw/youtube/transcripts/TigfpYPJk1s.md",
+      "updated_at": "2026-04-08T08:45:23+00:00"
+    },
+    "VuQUF1VVX40": {
+      "title": "【生成式人工智慧與機器學習導論2025】第０講：開場與課程簡介",
+      "url": "https://www.youtube.com/watch?v=VuQUF1VVX40",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 419,
+      "path": "raw/youtube/transcripts/VuQUF1VVX40.md",
+      "updated_at": "2026-04-08T08:45:23+00:00"
+    },
+    "zpRR_A3Thoo": {
+      "title": "【舊影片上傳】DNN Backpropagation (2015 年上課錄影)",
+      "url": "https://www.youtube.com/watch?v=zpRR_A3Thoo",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:45:26+00:00"
+    },
+    "gkAyqoQkOSk": {
+      "title": "【生成式AI時代下的機器學習(2025)】第十二講：語言模型如何學會說話 — 概述語音語言模型發展歷程",
+      "url": "https://www.youtube.com/watch?v=gkAyqoQkOSk",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 2350,
+      "path": "raw/youtube/transcripts/gkAyqoQkOSk.md",
+      "updated_at": "2026-04-08T08:45:28+00:00"
+    },
+    "jFUwoCkdqAo": {
+      "title": "【生成式AI時代下的機器學習(2025)】第十一講：今天你想為 Foundation Model 裝備哪些 Task Vector？淺談神奇的 Model Merging 技術",
+      "url": "https://www.youtube.com/watch?v=jFUwoCkdqAo",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 818,
+      "path": "raw/youtube/transcripts/jFUwoCkdqAo.md",
+      "updated_at": "2026-04-08T08:45:30+00:00"
+    },
+    "9HPsz7F0mJg": {
+      "title": "【生成式AI時代下的機器學習(2025)】第十講：人工智慧的微創手術 — 淺談 Model Editing",
+      "url": "https://www.youtube.com/watch?v=9HPsz7F0mJg",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 1045,
+      "path": "raw/youtube/transcripts/9HPsz7F0mJg.md",
+      "updated_at": "2026-04-08T08:45:32+00:00"
+    },
+    "s266BzGNKKc": {
+      "title": "【生成式AI時代下的機器學習(2025)】第九講：你這麽認這個評分系統幹什麽啊？談談有關大型語言模型評估的幾件事",
+      "url": "https://www.youtube.com/watch?v=s266BzGNKKc",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 652,
+      "path": "raw/youtube/transcripts/s266BzGNKKc.md",
+      "updated_at": "2026-04-08T08:45:37+00:00"
+    },
+    "ip3XnTpcxoA": {
+      "title": "【生成式AI時代下的機器學習(2025)】第八講：大型語言模型的推理過程不用太長、夠用就好",
+      "url": "https://www.youtube.com/watch?v=ip3XnTpcxoA",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 606,
+      "path": "raw/youtube/transcripts/ip3XnTpcxoA.md",
+      "updated_at": "2026-04-08T08:45:39+00:00"
+    },
+    "bJFtcwLSNxI": {
+      "title": "【生成式AI時代下的機器學習(2025)】第七講：DeepSeek-R1 這類大型語言模型是如何進行「深度思考」（Reasoning）的？",
+      "url": "https://www.youtube.com/watch?v=bJFtcwLSNxI",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 2266,
+      "path": "raw/youtube/transcripts/bJFtcwLSNxI.md",
+      "updated_at": "2026-04-08T08:45:41+00:00"
+    },
+    "Z6b5-77EfGk": {
+      "title": "【生成式AI時代下的機器學習(2025)】第六講：生成式人工智慧的後訓練(Post-Training)與遺忘問題",
+      "url": "https://www.youtube.com/watch?v=Z6b5-77EfGk",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 1834,
+      "path": "raw/youtube/transcripts/Z6b5-77EfGk.md",
+      "updated_at": "2026-04-08T08:45:43+00:00"
+    },
+    "mpuRca2UZtI": {
+      "title": "【生成式AI時代下的機器學習(2025)】助教課：利用多張GPU訓練大型語言模型—從零開始介紹DeepSpeed、Liger Kernel、Flash Attention及Quantization",
+      "url": "https://www.youtube.com/watch?v=mpuRca2UZtI",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 1605,
+      "path": "raw/youtube/transcripts/mpuRca2UZtI.md",
+      "updated_at": "2026-04-08T08:45:46+00:00"
+    },
+    "Ozos6M1JtIE": {
+      "title": "【生成式AI時代下的機器學習(2025)】第五講：大型語言模型訓練方法「預訓練–對齊」(Pretrain-Alignment) 的強大與極限",
+      "url": "https://www.youtube.com/watch?v=Ozos6M1JtIE",
+      "status": "fetched",
+      "language": "zh-TW",
+      "segment_count": 2199,
+      "path": "raw/youtube/transcripts/Ozos6M1JtIE.md",
+      "updated_at": "2026-04-08T08:45:48+00:00"
+    },
+    "gjsdVi90yQo": {
+      "title": "【生成式AI時代下的機器學習(2025)】第四講：Transformer 的時代要結束了嗎？介紹 Transformer 的競爭者們",
+      "url": "https://www.youtube.com/watch?v=gjsdVi90yQo",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=gjsdVi90yQo! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:45:51+00:00"
+    },
+    "Xnil63UDW2o": {
+      "title": "【生成式AI時代下的機器學習(2025)】第三講：AI 的腦科學 — 語言模型內部運作機制剖析 (解析單一神經元到整群神經元的運作機制、如何讓語言模型說出自己的內心世界)",
+      "url": "https://www.youtube.com/watch?v=Xnil63UDW2o",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=Xnil63UDW2o! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:45:55+00:00"
+    },
+    "M2Yg1kwPpts": {
+      "title": "【生成式AI時代下的機器學習(2025)】第二講：一堂課搞懂 AI Agent 的原理 (AI如何透過經驗調整行為、使用工具和做計劃)",
+      "url": "https://www.youtube.com/watch?v=M2Yg1kwPpts",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=M2Yg1kwPpts! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:45:58+00:00"
+    },
+    "QLiKmca4kzI": {
+      "title": "【生成式AI時代下的機器學習(2025)】第一講：一堂課搞懂生成式人工智慧的技術突破與未來發展",
+      "url": "https://www.youtube.com/watch?v=QLiKmca4kzI",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=QLiKmca4kzI! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:46:02+00:00"
+    },
+    "zxFTrb_xGD0": {
+      "title": "Future Directions in Neural Speech Communication Codecs - Minje Kim (UIUC)",
+      "url": "https://www.youtube.com/watch?v=zxFTrb_xGD0",
+      "status": "missing",
+      "error": "NoTranscriptFound",
+      "updated_at": "2026-04-08T08:46:05+00:00"
+    },
+    "fIoCxwVobEo": {
+      "title": "NeuralAudioCodecs: Recent Progress and a Case Study with SemantiCodec -Wenwu Wang (Univ. of Surrey)",
+      "url": "https://www.youtube.com/watch?v=fIoCxwVobEo",
+      "status": "missing",
+      "error": "NoTranscriptFound",
+      "updated_at": "2026-04-08T08:46:10+00:00"
+    },
+    "JidtdZVtpkI": {
+      "title": "VoiceCraft: Zero-Shot Speech Editing and TTS in the Wild - Shang-Wen Li (Meta)",
+      "url": "https://www.youtube.com/watch?v=JidtdZVtpkI",
+      "status": "missing",
+      "error": "NoTranscriptFound",
+      "updated_at": "2026-04-08T08:46:13+00:00"
+    },
+    "ExDfqz8NfnE": {
+      "title": "Challenges in Developing Universal Audio Foundation Model - Dongchao Yang (CUHK)",
+      "url": "https://www.youtube.com/watch?v=ExDfqz8NfnE",
+      "status": "missing",
+      "error": "NoTranscriptFound",
+      "updated_at": "2026-04-08T08:46:15+00:00"
+    },
+    "Zjpl84KCTvw": {
+      "title": "Audio Language Models - Neil Zeghidour (Moshi)",
+      "url": "https://www.youtube.com/watch?v=Zjpl84KCTvw",
+      "status": "missing",
+      "error": "NoTranscriptFound",
+      "updated_at": "2026-04-08T08:46:17+00:00"
+    },
+    "OYN_GvAqv-A": {
+      "title": "【生成式AI導論 2024】第18講：有關影像的生成式AI (下) — 快速導讀經典影像生成方法 (VAE, Flow, Diffusion, GAN) 以及與生成的影片互動",
+      "url": "https://www.youtube.com/watch?v=OYN_GvAqv-A",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=OYN_GvAqv-A! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:46:20+00:00"
+    },
+    "5H2bVEmYDNg": {
+      "title": "【生成式AI導論 2024】第17講：有關影像的生成式AI (上) — AI 如何產生圖片和影片 (Sora 背後可能用的原理)",
+      "url": "https://www.youtube.com/watch?v=5H2bVEmYDNg",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=5H2bVEmYDNg! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:46:23+00:00"
+    },
+    "CgQ3lUOpXgc": {
+      "title": "GPT-4o 背後可能的語音技術猜測",
+      "url": "https://www.youtube.com/watch?v=CgQ3lUOpXgc",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=CgQ3lUOpXgc! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:46:26+00:00"
+    },
+    "MAbGgsWKrg8": {
+      "title": "【生成式AI導論 2024】第16講：可以加速所有語言模型生成速度的神奇外掛 — Speculative Decoding",
+      "url": "https://www.youtube.com/watch?v=MAbGgsWKrg8",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=MAbGgsWKrg8! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:46:28+00:00"
+    },
+    "QbwQR9sjWbs": {
+      "title": "【生成式AI導論 2024】第15講：為什麼語言模型用文字接龍，圖片生成不用像素接龍呢？— 淺談生成式人工智慧的生成策略",
+      "url": "https://www.youtube.com/watch?v=QbwQR9sjWbs",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=QbwQR9sjWbs! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:46:30+00:00"
+    },
+    "CNTondxaguo": {
+      "title": "【生成式AI導論 2024】第14講：淺談大型語言模型相關的安全性議題 (下) — 欺騙大型語言模型",
+      "url": "https://www.youtube.com/watch?v=CNTondxaguo",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=CNTondxaguo! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:46:35+00:00"
+    },
+    "MSnvknLywUc": {
+      "title": "【生成式AI導論 2024】第13講：淺談大型語言模型相關的安全性議題 (上) — 亡羊補牢、語言模型的偏見、有多少人用 ChatGPT 寫論文審查意見",
+      "url": "https://www.youtube.com/watch?v=MSnvknLywUc",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=MSnvknLywUc! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:46:39+00:00"
+    },
+    "Hk8Z0uhmWg4": {
+      "title": "【生成式AI導論 2024】第12講：淺談檢定大型語言模型能力的各種方式",
+      "url": "https://www.youtube.com/watch?v=Hk8Z0uhmWg4",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=Hk8Z0uhmWg4! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:46:42+00:00"
+    },
+    "rZzfqkfZhY8": {
+      "title": "【生成式AI導論 2024】第11講：大型語言模型在「想」什麼呢？ — 淺談大型語言模型的可解釋性",
+      "url": "https://www.youtube.com/watch?v=rZzfqkfZhY8",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=rZzfqkfZhY8! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:46:46+00:00"
+    },
+    "uhNsUCb2fJI": {
+      "title": "【生成式AI導論 2024】第10講：今日的語言模型是如何做文字接龍的 — 淺談Transformer (已經熟悉 Transformer 的同學可略過本講)",
+      "url": "https://www.youtube.com/watch?v=uhNsUCb2fJI",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=uhNsUCb2fJI! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:46:50+00:00"
+    },
+    "2QC9VEBkaqk": {
+      "title": "[活動宣傳] Webinar Series for Advancements in Audio, Speech and Language Technology",
+      "url": "https://www.youtube.com/watch?v=2QC9VEBkaqk",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:46:51+00:00"
+    },
+    "bJZTJ7MjYqg": {
+      "title": "【生成式AI導論 2024】第9講：以大型語言模型打造的AI Agent (14:50 教你怎麼打造芙莉蓮一級魔法使考試中出現的泥人哥列姆)",
+      "url": "https://www.youtube.com/watch?v=bJZTJ7MjYqg",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=bJZTJ7MjYqg! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:46:57+00:00"
+    },
+    "v12IKvF6Cj8": {
+      "title": "【生成式AI導論 2024】第8講：大型語言模型修練史 — 第三階段: 參與實戰，打磨技巧 (Reinforcement Learning from Human Feedback, RLHF)",
+      "url": "https://www.youtube.com/watch?v=v12IKvF6Cj8",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=v12IKvF6Cj8! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:02+00:00"
+    },
+    "Q9cNkUPXUB8": {
+      "title": "【生成式AI導論 2024】第7講：大型語言模型修練史 — 第二階段: 名師指點，發揮潛力 (兼談對 ChatGPT 做逆向工程與 LLaMA 時代的開始)",
+      "url": "https://www.youtube.com/watch?v=Q9cNkUPXUB8",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=Q9cNkUPXUB8! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:04+00:00"
+    },
+    "cCpErV7To2o": {
+      "title": "【生成式AI導論 2024】第6講：大型語言模型修練史 — 第一階段: 自我學習，累積實力 (熟悉機器學習的同學從 15:00 開始看起即可)",
+      "url": "https://www.youtube.com/watch?v=cCpErV7To2o",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=cCpErV7To2o! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:06+00:00"
+    },
+    "inebiWdQW-4": {
+      "title": "【生成式AI導論 2024】第5講：訓練不了人工智慧？你可以訓練你自己 (下) — 讓語言彼此合作，把一個人活成一個團隊 (開頭有芙莉蓮雷，慎入)",
+      "url": "https://www.youtube.com/watch?v=inebiWdQW-4",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=inebiWdQW-4! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:09+00:00"
+    },
+    "lwe3_x50_uw": {
+      "title": "【生成式AI導論 2024】第4講：訓練不了人工智慧？你可以訓練你自己 (中) — 拆解問題與使用工具",
+      "url": "https://www.youtube.com/watch?v=lwe3_x50_uw",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=lwe3_x50_uw! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:13+00:00"
+    },
+    "A3Yx35KrSN0": {
+      "title": "【生成式AI導論 2024】第3講：訓練不了人工智慧？你可以訓練你自己 (上) — 神奇咒語與提供更多資訊",
+      "url": "https://www.youtube.com/watch?v=A3Yx35KrSN0",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=A3Yx35KrSN0! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:15+00:00"
+    },
+    "glBhOQ1_RkE": {
+      "title": "【生成式AI導論 2024】第2講：今日的生成式人工智慧厲害在哪裡？從「工具」變為「工具人」",
+      "url": "https://www.youtube.com/watch?v=glBhOQ1_RkE",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=glBhOQ1_RkE! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:18+00:00"
+    },
+    "JGtqpQXfJis": {
+      "title": "【生成式AI導論 2024】第1講：生成式AI是什麼？",
+      "url": "https://www.youtube.com/watch?v=JGtqpQXfJis",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=JGtqpQXfJis! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:22+00:00"
+    },
+    "AVIKFXLCPY8": {
+      "title": "【生成式AI導論 2024】第0講：課程說明 (17:15 有芙莉蓮雷)",
+      "url": "https://www.youtube.com/watch?v=AVIKFXLCPY8",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=AVIKFXLCPY8! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:26+00:00"
+    },
+    "wG8-IUtqu-s": {
+      "title": "80分鐘快速了解大型語言模型 (5:30 有咒術迴戰雷)",
+      "url": "https://www.youtube.com/watch?v=wG8-IUtqu-s",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:27+00:00"
+    },
+    "VpKN3KvSK6c": {
+      "title": "【生成式AI 2023】FrugalGPT: 來看看窮人怎麼用省錢的方式來使用 ChatGPT (下)",
+      "url": "https://www.youtube.com/watch?v=VpKN3KvSK6c",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:28+00:00"
+    },
+    "vxxPtDCb9Go": {
+      "title": "【生成式AI 2023】FrugalGPT: 來看看窮人怎麼用省錢的方式來使用 ChatGPT (上)",
+      "url": "https://www.youtube.com/watch?v=vxxPtDCb9Go",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:29+00:00"
+    },
+    "eQNADlR0jSs": {
+      "title": "【生成式AI 2023】讓 AI 做計劃然後自己運行自己",
+      "url": "https://www.youtube.com/watch?v=eQNADlR0jSs",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:30+00:00"
+    },
+    "OOvhBIIHITE": {
+      "title": "【生成式AI 2023】用語言模型來解釋語言模型 (下)",
+      "url": "https://www.youtube.com/watch?v=OOvhBIIHITE",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:31+00:00"
+    },
+    "GBXm30qRAqg": {
+      "title": "【生成式AI 2023】用語言模型來解釋語言模型 (上)",
+      "url": "https://www.youtube.com/watch?v=GBXm30qRAqg",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:32+00:00"
+    },
+    "m7Be7ppR6q0": {
+      "title": "【機器學習2023】語音基石模型 (助教張凱為講授) (1/2)",
+      "url": "https://www.youtube.com/watch?v=m7Be7ppR6q0",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:33+00:00"
+    },
+    "HTAq-CPrU5s": {
+      "title": "【機器學習2023】語音基石模型 (助教張凱為講授) (2/2)",
+      "url": "https://www.youtube.com/watch?v=HTAq-CPrU5s",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:36+00:00"
+    },
+    "m7dUFlX-yQI": {
+      "title": "【生成式AI】ChatGPT 可以自我反省!",
+      "url": "https://www.youtube.com/watch?v=m7dUFlX-yQI",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=m7dUFlX-yQI! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:38+00:00"
+    },
+    "G44Lkj7XDsA": {
+      "title": "【生成式AI】讓 AI 村民組成虛擬村莊會發生甚麼事？",
+      "url": "https://www.youtube.com/watch?v=G44Lkj7XDsA",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=G44Lkj7XDsA! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:40+00:00"
+    },
+    "rK_rZFew1yc": {
+      "title": "【生成式AI】窮人如何低資源復刻自己的 ChatGPT",
+      "url": "https://www.youtube.com/watch?v=rK_rZFew1yc",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=rK_rZFew1yc! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:42+00:00"
+    },
+    "67_M2qP5ssY": {
+      "title": "【生成式AI】Diffusion Model 原理剖析 (4/4) (optional)",
+      "url": "https://www.youtube.com/watch?v=67_M2qP5ssY",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:43+00:00"
+    },
+    "m6QchXTx6wA": {
+      "title": "【生成式AI】Diffusion Model 原理剖析 (3/4) (optional)",
+      "url": "https://www.youtube.com/watch?v=m6QchXTx6wA",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:44+00:00"
+    },
+    "73qwu77ZsTM": {
+      "title": "【生成式AI】Diffusion Model 原理剖析 (2/4) (optional)",
+      "url": "https://www.youtube.com/watch?v=73qwu77ZsTM",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:45+00:00"
+    },
+    "ifCDXFdeaaM": {
+      "title": "【生成式AI】Diffusion Model 原理剖析 (1/4) (optional)",
+      "url": "https://www.youtube.com/watch?v=ifCDXFdeaaM",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:46+00:00"
+    },
+    "JbfcAaBT66U": {
+      "title": "【生成式AI】Stable Diffusion、DALL-E、Imagen 背後共同的套路",
+      "url": "https://www.youtube.com/watch?v=JbfcAaBT66U",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=JbfcAaBT66U! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:48+00:00"
+    },
+    "azBugJzmz-o": {
+      "title": "【生成式AI】淺談圖像生成模型 Diffusion Model 原理",
+      "url": "https://www.youtube.com/watch?v=azBugJzmz-o",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=azBugJzmz-o! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:52+00:00"
+    },
+    "z83Edfvgd9g": {
+      "title": "【生成式AI】速覽圖像生成常見模型",
+      "url": "https://www.youtube.com/watch?v=z83Edfvgd9g",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=z83Edfvgd9g! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:54+00:00"
+    },
+    "kslijcrYizE": {
+      "title": "【生成式AI】GPT-4 來了! GPT-4 這次有什麼神奇的能力呢？",
+      "url": "https://www.youtube.com/watch?v=kslijcrYizE",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:55+00:00"
+    },
+    "V-3ksGCjehU": {
+      "title": "【生成式AI】大模型 + 大資料 = 神奇結果？(3/3)：另闢蹊徑 — KNNLM",
+      "url": "https://www.youtube.com/watch?v=V-3ksGCjehU",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:56+00:00"
+    },
+    "qycxA-xX_OY": {
+      "title": "【生成式AI】大模型 + 大資料 = 神奇結果？(2/3)：到底要多少資料才夠",
+      "url": "https://www.youtube.com/watch?v=qycxA-xX_OY",
+      "status": "missing",
+      "error": "TranscriptsDisabled",
+      "updated_at": "2026-04-08T08:47:57+00:00"
+    },
+    "SaZTJJNOCOY": {
+      "title": "【生成式AI】大模型 + 大資料 = 神奇結果？(1/3)：大模型的頓悟時刻",
+      "url": "https://www.youtube.com/watch?v=SaZTJJNOCOY",
+      "status": "error",
+      "error": "IpBlocked: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=SaZTJJNOCOY! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+      "updated_at": "2026-04-08T08:47:58+00:00"
+    }
+  },
+  "summary": {
+    "fetched": 27,
+    "missing": 22,
+    "errors": 31
+  }
+}

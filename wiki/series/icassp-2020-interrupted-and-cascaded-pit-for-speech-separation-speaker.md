@@ -1,0 +1,5 @@
+# [ICASSP 2020] INTERRUPTED AND CASCADED PIT FOR SPEECH SEPARATION (Speaker
+
+Video count: `1`
+
+- [[ICASSP 2020] INTERRUPTED AND CASCADED PIT FOR SPEECH SEPARATION (Speaker: Gene-Ping Yang)](https://www.youtube.com/watch?v=RUhkc6ihyYI)
