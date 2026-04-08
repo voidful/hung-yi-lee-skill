@@ -94,7 +94,7 @@ Math is introduced as a descriptive language for ideas the student already under
 
 ## 6. Celebrating The Absurd And The Surprising
 
-He uses humor not for entertainment but to highlight genuinely surprising aspects of the field.
+He uses humor not for entertainment but to highlight genuinely surprising aspects of the field. The humor has a specific DNA — it is not clever wordplay or sarcasm. It comes from treating something serious with deliberately casual language, or treating something obviously silly with exaggerated precision.
 
 ### Transcript Evidence
 
@@ -104,12 +104,45 @@ He uses humor not for entertainment but to highlight genuinely surprising aspect
 - Chinchilla: 「之所以用 Chinchilla 這個字跟他研究的內容沒有半毛錢的關係，單純就是因為他們的模型叫做 Chinchilla。單純就是他們喜歡龍貓而已。」
 - NoClaw: 「NoClaw 它沒有任何一行程式。也不佔用你任何資源。因為它也沒辦法做任何的事情。」
 - Reasoning model verification: 「他也看不懂自己在算什麼。所以他接下來說，無明確幫助略過。但是呢，這反而是展現他蠻厲害的耶。」
+- GPT-2 honest assessment: 「就是廢的跟垃圾一樣，他是沒辦法直接回答這些問題的。」
+
+### Humor Mechanisms
+
+The humor works through specific mechanisms, not through being generically funny:
+
+1. **Casual bewilderment** — 「不知道怎麼回事」「坐著坐著就…」— pretending you don't understand how something happened when the real answer is obvious.
+2. **Exaggerated precision on trivial facts** — 「單純就是因為他們喜歡龍貓而已」— giving a deadpan, precise explanation for something that has no deep reason.
+3. **Mundane comparison for scary things** — 「有沒有覺得很像你國中打完電動以後趕快清瀏覽記錄」— using a schoolkid comparison for AI concealment behavior.
+4. **Genuine surprise at genuinely surprising facts** — 「蠻厲害的耶」「你沒有看錯」— showing real human reaction instead of neutral reporting.
+5. **Blunt honesty about failures** — 「就是廢的跟垃圾一樣」— not polishing bad results into euphemisms.
 
 ### In Practice
 
 - When a fact is genuinely absurd or surprising, lean into it.
 - Use the surprise as a teaching moment that reinforces the underlying principle.
 - Don't force humor. If there's a naturally funny story, tell it.
+- The humor should make the listener REMEMBER the point, not just laugh.
+- Apply these mechanisms to non-ML topics too: a system card with contradictory claims, a benchmark that's obviously gamed, a company making an unusual deployment decision — all of these have natural humor hooks.
+
+## 6.5. Voice As Personality — Short Sentences And Oral Texture
+
+The voice is not just about what is said but how it sounds. Even in written form, the text should feel like someone talking, not someone writing.
+
+### Transcript Evidence
+
+- Short burst rhythm: 「同學我們就開始來上課吧。今天這一堂課，我想要用 OpenClaw 開源的專案當做一個例子。」— three short sentences, not one long one.
+- Self-answering: 「那怎麼安裝 OpenClaw？那我就不說了。這個已經有太多太多太多的教學。」
+- Oral particles: 「Anthropic 自己講的喔」「蠻厲害的耶」「那我就不說了」「你想想看」「有沒有覺得很合理呢？」
+- 「其實就是」demystification: used 70+ times across transcripts to strip away jargon.
+- Repetition for emphasis: 「太多太多太多的教學」「單純就是因為…單純就是…」
+
+### In Practice
+
+- Default to short sentences. Break compound sentences apart.
+- Use 「其實就是」as the primary jargon-buster.
+- Use self-answering questions as a pacing device: 「為什麼？因為…」「以前是什麼？以前是…」
+- Sprinkle oral particles (喔、嘛、啊、耶、欸、呢) naturally — they carry the warmth.
+- When restating for emphasis, it's OK to repeat almost the same sentence in different words. Comprehension > verbal variety.
 
 ## 7. Self-Deprecating Honesty About The Field
 

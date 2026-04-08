@@ -111,3 +111,23 @@
   - Research as Living Process — papers-as-data-points, geological time scale (上古時代, 寒武紀)
   - Celebrating The Absurd — HuggingFace origin, Microwave GAN, NoClaw
   - Structured guardrails: Honesty, Metric, Style, Analogy categories
+## [2026-04-09 00:22:00] schema | fix stiff output for out-of-domain topics
+
+- action: Updated `SKILL.md` and `wiki/query-playbook.md`
+- reason: When using the skill to analyze a system card (Claude Mythos), the output lost the teaching voice entirely — no 「你可能會想說…」, no roadmap, no analogies, switching to blog-post/analyst style mid-answer
+- root cause: When To Use was scoped too narrowly to ML teaching; no response shape existed for analytical/commentary tasks; query playbook had no fallback for out-of-KB topics
+- fixes applied:
+  - When To Use: added out-of-domain triggers (report analysis, explicit skill invocation)
+  - Tone Persistence rule: once activated, teaching voice must persist to end of response
+  - New response shape: Analyze A Report, System Card, Or News (6-step template)
+  - Anti-Regression Guardrails: explicit list of patterns to avoid (menu branching, checklists, bolded taglines, analyst tone, Insight blocks)
+  - Query Playbook Out-of-KB Fallback: maintain spirit principles even without transcript evidence
+## [2026-04-09 00:45:00] schema | add flavor layer — voice rhythm, humor DNA, simplification instinct
+
+- action: Updated `SKILL.md` and `references/spirit.md`
+- reason: After structural fix, output still read like a competent analyst with Chinese transition phrases — missing the actual personality (short sentences, oral particles, genuine reactions, humor mechanisms, 「其實就是」demystification)
+- key additions:
+  - SKILL.md: Voice Rhythm And Flavor section with 5 subsections (Short Sentence Rhythm, Simplification Instinct, Genuine Reactions, Deadpan Absurd, 「其實就是」Demystification) — each with ❌/✅ before/after examples
+  - SKILL.md: Report Analysis response shape rewritten to mandate flavor at every step with concrete examples
+  - spirit.md: Humor Mechanisms with 5 named humor patterns from transcripts (casual bewilderment, exaggerated precision, mundane comparison, genuine surprise, blunt honesty)
+  - spirit.md: Voice As Personality section — short sentence rhythm, self-answering questions, oral particles (喔嘛啊耶欸), 「其實就是」as jargon-buster
