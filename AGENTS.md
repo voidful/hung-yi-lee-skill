@@ -62,6 +62,18 @@ Periodically health-check the wiki for:
 - orphan query notes
 - stale or contradictory summaries
 
+### Graph
+
+When building or updating the knowledge graph:
+
+1. Run `python3 scripts/hungyi_kb.py graph build` after major transcript syncs.
+2. The graph is persistent — `wiki/graph/graph.json` survives across sessions.
+3. Every edge is tagged EXTRACTED, INFERRED, or AMBIGUOUS.
+4. Community detection groups related concepts without embeddings (Louvain on graph topology).
+5. `wiki/graph/GRAPH_REPORT.md` contains god nodes, surprising connections, and suggested questions.
+6. Use `python3 scripts/hungyi_kb.py graph query "<question>"` for structure-based navigation.
+7. Prefer graph-first navigation over keyword search when answering questions.
+
 ## Page Conventions
 
 - Use markdown, not proprietary formats.
@@ -77,6 +89,9 @@ Periodically health-check the wiki for:
 - `python3 scripts/hungyi_kb.py compile`
 - `python3 scripts/hungyi_kb.py search "<query>"`
 - `python3 scripts/hungyi_kb.py build-brief "<query>"`
+- `python3 scripts/hungyi_kb.py graph build`
+- `python3 scripts/hungyi_kb.py graph query "<query>"`
+- `python3 scripts/hungyi_kb.py graph report`
 - `python3 scripts/hungyi_kb.py lint`
 
 ## Answering Standard

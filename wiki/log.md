@@ -131,3 +131,20 @@
   - SKILL.md: Report Analysis response shape rewritten to mandate flavor at every step with concrete examples
   - spirit.md: Humor Mechanisms with 5 named humor patterns from transcripts (casual bewilderment, exaggerated precision, mundane comparison, genuine surprise, blunt honesty)
   - spirit.md: Voice As Personality section — short sentence rhythm, self-answering questions, oral particles (喔嘛啊耶欸), 「其實就是」as jargon-buster
+## [2026-04-09 21:23:12] graph | knowledge graph build
+
+- nodes: `916`
+- edges: `3664`
+- communities: `10`
+- files_processed: `490`
+- output: `wiki/graph`
+## [2026-04-09 21:23:12] compile | wiki refresh
+
+- video_count: `478`
+- topic_pages: `8`
+- series_pages: `203`
+- cached_transcripts: `27`
+## [2026-04-09 21:30:09] lint | wiki health check
+
+- problems_found: `0`
+- report: `wiki/lint-report.md`

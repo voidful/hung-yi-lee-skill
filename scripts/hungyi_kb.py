@@ -587,9 +587,34 @@ python3 scripts/hungyi_kb.py sync-transcripts --limit 50
 python3 scripts/hungyi_kb.py compile
 python3 scripts/hungyi_kb.py search "attention" --limit 8
 python3 scripts/hungyi_kb.py build-brief "什麼是 attention"
+python3 scripts/hungyi_kb.py graph build
+python3 scripts/hungyi_kb.py graph query "attention mechanism"
 python3 scripts/hungyi_kb.py lint
 ```
+"""
 
+    # Knowledge Graph section (only if graph outputs exist)
+    graph_report = WIKI_DIR / "graph" / "GRAPH_REPORT.md"
+    graph_json = WIKI_DIR / "graph" / "graph.json"
+    if graph_report.exists() or graph_json.exists():
+        graph_stats = ""
+        if graph_json.exists():
+            try:
+                gdata = json.loads(graph_json.read_text(encoding="utf-8"))
+                n_nodes = len(gdata.get("nodes", []))
+                n_edges = len(gdata.get("links", []))
+                graph_stats = f" (`{n_nodes}` nodes, `{n_edges}` edges)"
+            except Exception:
+                pass
+        index_text += f"""
+## Knowledge Graph{graph_stats}
+
+- [GRAPH_REPORT.md](./graph/GRAPH_REPORT.md) — god nodes, surprising connections, suggested questions
+- [graph.html](./graph/graph.html) — interactive visualization (open in browser)
+- Graph JSON: `wiki/graph/graph.json` (query with `python3 scripts/hungyi_kb.py graph query "<question>"`)
+"""
+
+    index_text += """
 ## Notes
 
 - Answers should prefer transcript-grounded evidence whenever possible.
@@ -968,6 +993,116 @@ def lint_wiki() -> None:
             print(f"- {problem}")
 
 
+GRAPH_DIR = WIKI_DIR / "graph"
+
+
+def run_graph_build() -> None:
+    """Build the full knowledge graph from transcripts, topics, and references."""
+    from hungyi_graph import build_full_graph, query_graph, detect_communities
+
+    ensure_dirs()
+    GRAPH_DIR.mkdir(parents=True, exist_ok=True)
+    print("Building knowledge graph...")
+    print(f"  Transcripts dir: {TRANSCRIPTS_DIR}")
+    print(f"  Topics dir:      {TOPICS_DIR}")
+    print(f"  References dir:  {ROOT / 'references'}")
+    print()
+
+    result = build_full_graph(
+        transcripts_dir=TRANSCRIPTS_DIR,
+        topics_dir=TOPICS_DIR,
+        references_dir=ROOT / "references",
+        channel_index_path=CHANNEL_INDEX_PATH,
+        output_dir=GRAPH_DIR,
+    )
+
+    append_log_entry(
+        "graph",
+        "knowledge graph build",
+        [
+            f"nodes: `{result['graph_nodes']}`",
+            f"edges: `{result['graph_edges']}`",
+            f"communities: `{result['communities']}`",
+            f"files_processed: `{result['stats']['files_processed']}`",
+            f"output: `{GRAPH_DIR.relative_to(ROOT)}`",
+        ],
+    )
+
+    # Re-compile wiki to include graph section
+    compile_wiki()
+
+
+def run_graph_query(query: str) -> None:
+    """Query the knowledge graph by BFS traversal."""
+    import networkx as nx
+    from networkx.readwrite import json_graph as nx_json
+    from hungyi_graph import detect_communities, query_graph
+
+    graph_json = GRAPH_DIR / "graph.json"
+    if not graph_json.exists():
+        print("No graph found. Run `graph build` first.")
+        return
+
+    data = json.loads(graph_json.read_text(encoding="utf-8"))
+    G = nx_json.node_link_graph(data, edges="links")
+    partition = {n: d.get("community", 0) for n, d in G.nodes(data=True)}
+
+    result = query_graph(G, partition, query)
+
+    print(f"Query: {result['query']}")
+    print(f"Tokens: {', '.join(result['tokens'])}")
+    print()
+
+    if not result["results"]:
+        print("No matching nodes found.")
+        return
+
+    print(f"Found {len(result['results'])} relevant nodes:")
+    print()
+    for node in result["results"]:
+        depth_marker = "  " * node["depth"]
+        print(f"{depth_marker}• {node['label']} ({node['type']}) "
+              f"[community {node['community']}, degree {node['degree']}]")
+
+    if result["paths"]:
+        print()
+        print("Paths between seed nodes:")
+        for p in result["paths"]:
+            print(f"  {' → '.join(p['path'])} (length {p['length']})")
+
+
+def run_graph_report() -> None:
+    """Regenerate GRAPH_REPORT.md from existing graph.json."""
+    import networkx as nx
+    from networkx.readwrite import json_graph as nx_json
+    from hungyi_graph import (
+        detect_communities, label_communities, generate_report
+    )
+
+    graph_json = GRAPH_DIR / "graph.json"
+    if not graph_json.exists():
+        print("No graph found. Run `graph build` first.")
+        return
+
+    data = json.loads(graph_json.read_text(encoding="utf-8"))
+    G = nx_json.node_link_graph(data, edges="links")
+    partition = {n: d.get("community", 0) for n, d in G.nodes(data=True)}
+    community_labels = label_communities(G, partition)
+
+    stats = {
+        "files_processed": G.number_of_nodes(),
+        "transcripts": sum(1 for _, d in G.nodes(data=True) if d.get("type") == "video" and not d.get("metadata_only")),
+        "metadata_only": sum(1 for _, d in G.nodes(data=True) if d.get("metadata_only")),
+        "topic_pages": sum(1 for _, d in G.nodes(data=True) if d.get("type") == "topic"),
+        "reference_docs": sum(1 for _, d in G.nodes(data=True) if d.get("type") == "reference"),
+    }
+
+    report = generate_report(G, partition, community_labels, stats)
+    report_path = GRAPH_DIR / "GRAPH_REPORT.md"
+    report_path.write_text(report, encoding="utf-8")
+    print(f"Report regenerated → {report_path}")
+
+
 def parse_args(argv: Iterable[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     subparsers = parser.add_subparsers(dest="command", required=True)
@@ -996,6 +1131,14 @@ def parse_args(argv: Iterable[str]) -> argparse.Namespace:
     brief_cmd.add_argument("query")
     brief_cmd.add_argument("--limit", type=int, default=8)
 
+    # Graph subcommands
+    graph_cmd = subparsers.add_parser("graph", help="Knowledge graph operations.")
+    graph_sub = graph_cmd.add_subparsers(dest="graph_action", required=True)
+    graph_sub.add_parser("build", help="Build the full knowledge graph.")
+    graph_query = graph_sub.add_parser("query", help="Query the knowledge graph.")
+    graph_query.add_argument("query")
+    graph_sub.add_parser("report", help="Regenerate GRAPH_REPORT.md from existing graph.")
+
     return parser.parse_args(list(argv))
 
 
@@ -1021,6 +1164,16 @@ def main(argv: Iterable[str]) -> int:
     if args.command == "lint":
         lint_wiki()
         return 0
+    if args.command == "graph":
+        if args.graph_action == "build":
+            run_graph_build()
+            return 0
+        if args.graph_action == "query":
+            run_graph_query(args.query)
+            return 0
+        if args.graph_action == "report":
+            run_graph_report()
+            return 0
     return 1
 
 

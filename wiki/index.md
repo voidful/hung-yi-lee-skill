@@ -38,8 +38,16 @@ python3 scripts/hungyi_kb.py sync-transcripts --limit 50
 python3 scripts/hungyi_kb.py compile
 python3 scripts/hungyi_kb.py search "attention" --limit 8
 python3 scripts/hungyi_kb.py build-brief "什麼是 attention"
+python3 scripts/hungyi_kb.py graph build
+python3 scripts/hungyi_kb.py graph query "attention mechanism"
 python3 scripts/hungyi_kb.py lint
 ```
+
+## Knowledge Graph (`916` nodes, `3664` edges)
+
+- [GRAPH_REPORT.md](./graph/GRAPH_REPORT.md) — god nodes, surprising connections, suggested questions
+- [graph.html](./graph/graph.html) — interactive visualization (open in browser)
+- Graph JSON: `wiki/graph/graph.json` (query with `python3 scripts/hungyi_kb.py graph query "<question>"`)
 
 ## Notes
 
