@@ -1,12 +1,14 @@
 **English** | [繁體中文](./README.md)
 
+# Hung-Yi Lee.skill
+
 <div align="center">
 
-> *"You don't need to learn all the math first. You just need to know what this thing is doing."*
+> *"A language model, in one sentence, is an AI that plays word chain."*
 
 <br>
 
-**Hung-Yi Lee's teaching operating system. Not a quote collection — a runnable pedagogical framework.**
+**Install a teacher's thinking process into the system. Not a quote collection — a runnable pedagogical OS.**
 
 <br>
 
@@ -19,6 +21,27 @@ distilled into a 916-node knowledge graph, 10 concept communities, and a complet
 </div>
 
 ---
+
+## Hall of Quotes — Greatest Hits from the Transcripts
+
+> These aren't made up. They're actually from the transcripts.
+
+| Quote | Teaching Principle |
+|-------|-------------------|
+| "Ten billion parameters everywhere you look, one billion is nothing special." | Make scale feel real in one sentence |
+| "Generating one image requires a million rounds of pixel chain, harder than writing *Dream of the Red Chamber*." | Turn astronomical numbers into relatable comparisons |
+| "This company originally wanted to build a chatbot. Then somehow, just sitting there, it became a platform for models and datasets." | Teach history through absurdity |
+| "What makes a good evaluation metric? Maybe the conclusion is: there isn't one." | Benchmark skepticism |
+| "Never say you're stuck at a local minimum. People will think you have no idea what you're talking about." | Correct misconceptions via roasting |
+| "It's garbage. Absolute garbage. It can't answer any of these questions." | Unvarnished honesty about bad results |
+| "The name Chinchilla has absolutely nothing to do with the research. They just like chinchillas." | Deadpan precision on trivial facts |
+| "AlphaGo — you all know this one, right? That's Cambrian-era stuff." | AI geological time scale |
+| "NoClaw has zero lines of code. It uses zero resources. Because it can't do anything." | Peak deadpan delivery |
+| "And then pray that you find a pretty good Theta." | Admitting ML has a prayer component |
+
+---
+
+## See It In Action
 
 ### Q: What is Attention?
 
@@ -121,6 +144,8 @@ Place in a directory your AI coding assistant can read, and point it to `SKILL.m
 
 ## Knowledge Graph
 
+> *"Not guessed via embedding similarity. Actually extracted from transcripts."*
+
 Not just transcript search. This skill includes a knowledge graph extracted from the course corpus.
 
 ### Graph Stats
@@ -134,6 +159,8 @@ Not just transcript search. This skill includes a knowledge graph extracted from
 | INFERRED edges | 2,043 |
 
 ### God Nodes — The crossroads of the entire curriculum
+
+> *"Think of these as highway interchanges. Every concept, sooner or later, passes through here."*
 
 | Concept | Type | Degree |
 |---------|------|--------|
@@ -168,34 +195,56 @@ open wiki/graph/graph.html
 
 ## What Was Distilled
 
-### Teaching Structure DNA
+> *"Finding a function from data — that's machine learning. Finding a teaching method from transcripts — that's this skill."*
 
-Every response follows a structure induced from the transcripts:
+### Teaching Flow DNA (Phase 0–7)
 
-1. **Intuition first** — Core concept in one sentence
-2. **Black box** — Input / output / objective
-3. **Open the box** — How the mechanism actually works
-4. **Pitfall alert** — Common misconceptions, limitations, debugging insights
-5. **Short recap** — Quick summary to close
+Induced from 79 videos and 68.4 hours of transcript analysis. An 8-phase teaching engine:
+
+| Phase | Name | How the teacher does it |
+|-------|------|------------------------|
+| 0 | Build Rapport | "Alright, let's start" — casual greeting, self-deprecating humor |
+| 1 | Roadmap | "Today we'll cover two parts…" — let students relax by knowing the structure |
+| 2 | Motivation | "10^300 possibilities" — shocking numbers or counter-intuitive hooks |
+| 3 | Intuition–Formalization Loop | "For example… so what's this called?" — **the core engine** |
+| 4 | Derivation | "Skip this if you don't follow, it's fine" — safety-net method |
+| 5 | Common Mistakes | "Never say that" — roast-style correction |
+| 6 | Practical Advice | "In PyTorch it's just one line" — grounded tips |
+| 7 | Review | "Alright, so what we learned today…" — three takeaways to close |
+
+### Teaching Technique Library (8 Techniques)
+
+| Technique | Purpose | Trigger |
+|-----------|---------|---------|
+| Intuition-Then-Formalize | Lower cognitive load | Before any new term |
+| Strategic Simplification | Isolate core concept | When parameters ≥ 2 |
+| Progressive Complexity Spiral | Evolve from simplest to full version | Multi-layer topics |
+| Three-Step Framework | Build mental scaffolding | Multi-stage processes |
+| Safety-Net Derivation | Prevent math phobia | Before proofs |
+| Misconception Breaker | Create cognitive conflict | Commonly confused concepts |
+| Pop Culture Analogy | Lower barrier with known references | After 3+ min of pure tech |
+| Formal Naming Ceremony | Create memory anchors | After intuitive explanation |
 
 ### Voice Markers
 
-| Marker | Purpose |
-|--------|---------|
-| 「你可能會想說…」 | Anticipate student confusion |
-| 「先講 black box」 | Outside-in teaching |
-| 「為什麼？因為…」 | Self-Q&A rhythm |
-| 「這個跟老師講過的 X 有關…」 | Cross-topic bridging |
-| 喔、嘛、啊、耶 | Oral, conversational feel |
+| Marker | Purpose | Evidence |
+|--------|---------|----------|
+| 「你可能會想說…」 | Anticipate student confusion | 80+ occurrences |
+| 「其實就是」 | Instant jargon demolition | 70+ occurrences |
+| 「為什麼？因為…」 | Self-Q&A rhythm | Core rhythm across all series |
+| 「一言以蔽之」 | Pack complex concept into one sentence | Signature phrase |
+| 喔、嘛、啊、耶、欸 | Oral warmth | Not decoration — they carry humanness |
 
 ### Core Teaching Principles
 
-| Principle | Description |
-|-----------|-------------|
-| **Benchmark Skepticism** | Numbers aren't answers — ask "what does it measure?" |
-| **Intellectual Honesty** | Distinguish fact from inference; say when uncertain |
-| **Concrete Analogies** | Make abstract concepts into everyday images |
-| **Intuition Before Math** | If a college student can't follow, you haven't explained it |
+| Principle | How the teacher practices it |
+|-----------|------------------------------|
+| **Intuition before math** | "You don't need to learn all the math. You just need to know what it's doing." |
+| **Benchmark skepticism** | The Parrot experiment beat SOTA: a do-nothing model scored highest → the metric is broken |
+| **Intellectual honesty** | "How much should you set it to? Hard to say." "And then pray." — admit uncertainty |
+| **Concrete analogies** | 15T tokens → print on A4 paper → 1,500 km tall → taller than satellites → reading since the Shang Dynasty still wouldn't finish |
+| **Celebrate the absurd** | "Chinchilla the name has nothing to do with the research. They just like chinchillas." |
+| **AI geological time** | 上古時代 → 史前時代 → Cambrian era — papers from 3 years ago are archaeology |
 
 ---
 
@@ -223,7 +272,7 @@ Every response follows a structure induced from the transcripts:
 
 ```
 hung-yi-lee-skill/
-├── SKILL.md                              # Skill entry point
+├── SKILL.md                              # Skill entry point (597 lines of teaching DNA)
 ├── AGENTS.md                             # Wiki maintenance schema
 ├── scripts/
 │   ├── hungyi_kb.py                      # CLI tool (search/compile/graph)
@@ -276,6 +325,8 @@ python3 scripts/hungyi_kb.py lint
 
 ## Why This Is Better Than Static RAG
 
+> *"The Parrot model does literally nothing, and it beat state-of-the-art on benchmarks. So when you search by embedding similarity — are you sure you're finding what you actually need?"*
+
 | | Static RAG | This Skill |
 |---|---|---|
 | Knowledge structure | Flat vector search | 916-node knowledge graph + keyword index |
@@ -294,5 +345,7 @@ MIT
 <div align="center">
 
 *"You don't need to learn all the math first. You just need to know what this thing is doing."*
+
+*"Alright, let's start class."*
 
 </div>
