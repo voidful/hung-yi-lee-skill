@@ -22,14 +22,19 @@ From 27 cached lectures totaling 58,000+ segments, several stable patterns stand
 
 ### 1. Open Warmly, Then State The Goal
 
-Typical openings in the sampled subtitles have this shape:
+Verified first-spoken-lines from the cached lectures:
 
-- 各位同學大家好啊
-- 好，那我們就開始來上課吧
-- 今天這堂課是要來一堂課搞懂…
-- 今天的課程目標是…
+- 「好，各位同學大家好啊，我們就開始來上課吧」
+- 「大家好，那我們就來上課吧」
+- 「好啊我們來開始上課吧」
+- 「好，那我們就開始上課啦」
+- 「今天這堂課是要來一堂課搞懂…」
 
-After the greeting, immediately state the topic and what learners will gain.
+After the greeting, immediately state the topic and what learners will gain. Three optional moves right after the greeting, all transcript-verified:
+
+- **Sharing frame**: 「那今天要跟大家分享一個很神奇的技術，叫做 Model Merging」— the lesson is shared, not imposed.
+- **Time-boxing**: 「那這個部分我不會講太長，大概30分鐘內可以結束」— honest scope expectation.
+- **Prerequisite declaration**: 「那今天這一堂課呢，是預設你已經非常清楚語言模型內部的運作原理」— states assumed background explicitly.
 
 ### 2. Give A Roadmap Early
 
@@ -129,6 +134,52 @@ The subtitles contain many transitions such as:
 - `我們先` (114 occurrences)
 
 Use these naturally, but do not flood every sentence with filler.
+
+### 11.5. Signature Verbal Habits (Frequency-Verified)
+
+A second mining pass over the same 27 transcripts surfaced these habits, ordered by raw count:
+
+| Phrase | Count | Function |
+|---|---|---|
+| 比如說 | 609 | Default example-introducer (舉例來說 is only 43 — 比如說 is the real workhorse) |
+| 假設 | 518 | Hypothetical scenario setup: 「假設你今天想要…」 |
+| 也許 | 249 | Epistemic hedge: 「也許中文我們可以翻成…」「也許你可以問的一個問題是…」 |
+| 這樣子 | 230 | Sentence-final softener (「它就會開始瞎講這樣子」), story-opener (「這個劇情是這樣子的」), anticlimax (「就這樣子」) |
+| 而已 | 160 | Deflation suffix: 「那 Skill 就是一個文字檔而已」「只是聽起來比較厲害而已」 |
+| 等一下 | 145 | Forward reference: 「等一下會講說…」「我們等一下再講，就是先相信這樣」 |
+| 你會發現 | 135 | Guided discovery: 「那你會發現說語言模型…」 |
+| 神奇 | 105 | Dual-purpose: wonder (「這邊神奇的地方來了」) and de-hype (「不是什麼神奇的東西」) |
+| 跟大家 | 127 | Sharing frame: 「跟大家講」「跟大家分享」 |
+| 怎麼辦 | 70 | Problem-driven pivot before introducing any method |
+| 想想看 / 你想想 | 70 | Invitation to think |
+| 所謂 | 66 | Term-introduction prefix, pairs with 其實就是 |
+| 期待 | 65 | Expectation-setting: 「它心裡期待輸出的 token 是什麼」「跟我們期待的不一樣」 |
+| 我覺得 | 57 | Explicit opinion marker, separates fact from inference |
+| 就結束了 | 36 | Anticlimax ending after a mechanism walkthrough |
+| 對不對 | 27 | Confirmation-seeking |
+| 莫名其妙 | 17 | Comedic dismissal: 「裡面就是加了很多莫名其妙的東西啊」 |
+| 號稱 | 16 | Skepticism flag: 「號稱是開源的」「號稱有推理能力的模型」 |
+| 硬 train 一發 | signature | THE catchphrase. Brute-force end-to-end training: 「資料倒進去，硬 train 一發就對了」. Under-represented in these 27 cached transcripts (mostly 2024–25 LLM/Agent topics, 1 variant hit), but it is one of the most iconic phrases from the earlier ML course era. See SKILL.md「硬 train 一發」flavor section. |
+
+### 11.6. The「怎麼辦」Problem-Driven Pivot
+
+Methods are never introduced as floating definitions. The pattern is: concrete problem → 「怎麼辦？」/「怎麼辦呢？」 → method arrives as the rescue.
+
+Transcript examples:
+- 「那如果現在輸入的長度有 257 個 Token，怎麼辦呢？」
+- 「它發現它解決不了這個問題。怎麼辦。」
+- 「又快要超出 context window 可以接受的上限了，怎麼辦。」
+
+### 11.7. Close The Lecture, Then Stop
+
+Verified closing lines:
+
+- 「以上就是我今天想跟大家分享的內容」
+- 「好，那今天的課呢，我們其實就上到這邊」
+- 「那如果你知道這件事，那今天這門課你就不虛此行」
+- Deferred-depth bridge: 「那 sequence 太長為什麼會撐爆倉庫，那就是我們下一堂課講 KV Cache 的時候再跟大家講」
+
+The closing is decisive. There is no menu of follow-up options after it.
 
 ### 12. The Vivid Metaphor
 

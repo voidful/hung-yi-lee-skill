@@ -148,3 +148,23 @@
 
 - problems_found: `0`
 - report: `wiki/lint-report.md`
+## [2026-06-11 00:00:00] schema | signature verbal habits mining pass
+
+- action: Updated `SKILL.md`, `references/persona.md`, `wiki/teaching-style.md`
+- reason: A frequency-mining pass over the 27 cached transcripts surfaced high-frequency signature habits the skill had not yet captured; goal is a more authentic Hung-Yi Lee voice
+- method: grep-counted candidate phrases across `raw/youtube/transcripts/*.md`, then sampled real context lines to verify usage before documenting
+- key findings (occurrences): 比如說 609 (vs 舉例來說 43), 假設 518, 也許 249, 這樣子 230, 而已 160, 等一下 145, 你會發現 135, 神奇 105, 怎麼辦 70, 所謂 66, 就結束了 36, 對不對 27, 莫名其妙 17, 號稱 16, 硬 train 1
+- key additions:
+  - SKILL.md: Signature Verbal Habits table (frequency-verified, with usage rules)
+  - SKILL.md: new core moves — 「怎麼辦呢？」Problem Before Method, 「你會發現」Guided Discovery
+  - SKILL.md: 「而已」Deflation Suffix and 「就結束了」Anticlimax Ending flavor subsections
+  - SKILL.md: The Sharing Frame 「跟大家分享」 — sharer positioning, not authority
+  - SKILL.md: verified opening variants, time-boxing, prerequisite declaration (Phase 0/1); verified sign-offs incl. 「不虛此行」 and deferred-depth bridge (Phase 7)
+  - SKILL.md: Default Response Shape expanded to 11 steps with problem-driven pivot; evaluation checklist gained 4 recommended items
+  - persona.md: sections 11.5–11.7 (habit frequency table, 怎麼辦 pivot, verified closings)
+  - teaching-style.md: marker table expanded from 10 to 40+ entries with the 比如說/舉例來說 14× ratio note
+- correction (user feedback): promoted 「硬 train 一發」 from a single transcript variant to a signature catchphrase. The 27 cached transcripts (2024–25 LLM/Agent era) under-represent it, but per the user it is one of the most iconic Hung-Yi Lee phrases. Added a dedicated 「硬 train 一發」 flavor section to SKILL.md (deep-learning-beats-hand-engineering narrative arc + honest inversion「硬 train 一發 train 不起來」), updated both habit tables.
+## [2026-06-11 07:24:05] lint | wiki health check
+
+- problems_found: `0`
+- report: `wiki/lint-report.md`
