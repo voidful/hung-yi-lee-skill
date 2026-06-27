@@ -1,4 +1,4 @@
-[English](./README.en.md) | **繁體中文**
+[English](./README.en.md) | **繁體中文** | [李宏毅老師經典的教學風格版](./README.style.md)
 
 # 李宏毅.skill
 

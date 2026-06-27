@@ -1,4 +1,4 @@
-**English** | [繁體中文](./README.md)
+**English** | [繁體中文](./README.md) | [李宏毅老師經典的教學風格版](./README.style.md)
 
 # Hung-Yi Lee.skill
 
